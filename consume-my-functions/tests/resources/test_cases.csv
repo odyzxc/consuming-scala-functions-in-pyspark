@@ -1,0 +1,2530 @@
+Supplier ID,CompanyName,ParentCompanyNameCleanse
+1,Advent Venture Partners Limited,Advent Venture Partners
+2,Advent Venture Partners corp.,Advent Venture Partners
+3,Advent Venture Partners,Advent Venture Partners
+4,BC Partners,BC Partners
+5,U.K. Steel Enterprise,U.K. Steel Enterprise
+6,Gresham Private Equity,Gresham Private Equity
+7,IK Investment Partners,IK Investment Partners
+8,Aberdeen Standard Investments,Aberdeen Standard Investments
+9,NGA Human Resources,NGA Human Resources
+10,Newell Rubbermaid UK Production,Newell Rubbermaid UK Production
+11,Chubb Tarquin,Chubb Tarquin
+12,University of Birmingham,University of Birmingham
+13,Hilco Europe,Hilco Europe
+14,Wellworth,Wellworth
+15,Well-worth ltd,Wellworth
+16,Well worth corp,Wellworth
+17,United News Shops Holdings,United News Shops Holdings
+18,Equistone Partners Europe,Equistone Partners Europe
+19,Unilever PLC prior to Dual Listing,Unilever PLC prior to Dual Listing
+20,Pi Capital,Pi Capital
+21,YFM Private Equity,YFM Private Equity
+22,MML Capital Partners,MML Capital Partners
+23,Penta Capital,Penta Capital
+24,FADS.co.uk,FADS.co.uk
+25,Silverfleet Capital Partners,Silverfleet Capital Partners
+26,Harbury Group,Harbury Group
+27,Motorsport Dealers International,Motorsport Dealers International
+28,Ashbourne Healthcare,Ashbourne Healthcare
+29,Harlequin Solutions,Harlequin Solutions
+30,Financial Options Group,Financial Options Group
+31,"Chessington Partnership, The",Chessington Partnership
+32,"Devonshire Pub Company, The",Devonshire Pub
+33,AmazeRealise,AmazeRealise
+34,Service Group International,Service Group International
+35,Kaye Aluminium,Kaye Aluminium
+36,Crescent Capital,Crescent Capital
+37,Levy Gee,Levy Gee
+38,Scottish Financial Enterprise,Scottish Financial Enterprise
+39,Nightingale Hospital London,Nightingale Hospital London
+40,Civica Health and Social Care,Civica Health and Social Care
+41,Trust the DJ,Trust the DJ
+42,Ginger Media Group,Ginger Media Group
+43,Investis Digital,Investis Digital
+44,Rio Tinto Group,Rio Tinto Group
+45,GE Smallworld,GE Smallworld
+46,TrustMarque International,TrustMarque International
+47,On-Line Finance,On-Line Finance
+48,Acuris,Acuris
+49,Atkins Management Consultancy,Atkins Management Consultancy
+50,Syntegra Capital,Syntegra Capital
+51,Grenville Homes Group,Grenville Homes Group
+52,"Exel plc, Prior to the Acquisition by Ocean Group","Exel plc, Prior to the Acquisition by Ocean Group"
+53,Comcen Computer Supplies,Comcen Computer Supplies
+54,Quality Locum Services,Quality Locum Services
+55,LongAcre Partners,LongAcre Partners
+56,motortrak,motortrak
+57,Surgical Vision,Surgical Vision
+58,Channel International,Channel International
+59,Hanson Capital Investments,Hanson Capital Investments
+60,Hermes Private Equity,Hermes Private Equity
+61,InvestIndustrial,InvestIndustrial
+62,Christy Carpets,Christy Carpets
+63,Bertram Library Services,Bertram Library Services
+64,Paperflow,Paperflow
+65,Boward Computer Services,Boward Computer Services
+66,International Metrology Systems,International Metrology Systems
+67,Dresdner Kleinwort,Dresdner Kleinwort
+68,The Equitable Life Assurance Society,Equitable Life Assurance Society
+69,TIBCO BPM Group,TIBCO BPM Group
+70,Winton Environmental Management,Winton Environmental Management
+71,Ian Walker Furniture,Ian Walker Furniture
+72,Cabot Square Capital,Cabot Square Capital
+73,Abbseal,Abbseal
+74,Synad Technologies,Synad Technologies
+75,The Greetings Store Group,Greetings Store Group
+76,Sphera's MRO,Sphera's MRO
+77,Webster & Bennett,Webster & Bennett
+78,Hampshire Laminating Machinery,Hampshire Laminating Machinery
+79,Gillman & Soame,Gillman & Soame
+80,Royal Bank Development Capital,Royal Bank Development Capital
+81,Global Invacom Waveguide,Global Invacom Waveguide
+82,R&B XL,R&B XL
+83,Pogo Mobile Solutions,Pogo Mobile Solutions
+84,Skipton Building Society,Skipton Building Society
+85,Rainey Kelly Campbell Roalfe/Y&R,Rainey Kelly Campbell Roalfe/Y&R
+86,Sussex Place Ventures,Sussex Place Ventures
+87,Pinnacle Computer Systems,Pinnacle Computer Systems
+88,Ferraris Piston Service,Ferraris Piston Service
+89,Henderson Equity Partners,Henderson Equity Partners
+90,Pincroft Dyeing & Printing,Pincroft Dyeing & Printing
+91,Endemol Shine Group,Endemol Shine Group
+92,Govett Strategic Investment Trust,Govett Strategic Investment Trust
+93,The Bank of England,Bank of England
+94,Beta Global Emerging Markets Investment Trust,Beta Global Emerging Markets Investment Trust
+95,Litho Supplies,Litho Supplies
+96,CEB Talent Assessment,CEB Talent Assessment
+97,Avon Energy Partners Holdings,Avon Energy Partners Holdings
+98,Finsbury Glover Herring,Finsbury Glover Herring
+99,University of Kent at Canterbury,University of Kent at Canterbury
+100,National Mutual Life Assurance Society,National Mutual Life Assurance Society
+101,Minet Group,Minet Group
+102,Aspect Vision Care,Aspect Vision Care
+103,Rainbow Corporatewear,Rainbow Corporatewear
+104,Jones Lang Wootton,Jones Lang Wootton
+105,Spectrum Value Partners,Spectrum Value Partners
+106,Schawk Wace Group,Schawk Wace Group
+107,GA Design International,GA Design International
+108,PKF International,PKF International
+109,ML Integration,ML Integration
+110,Acacia Capital Partners,Acacia Capital Partners
+111,Logistix Kids Worldwide,Logistix Kids Worldwide
+112,RCI Europe,RCI Europe
+113,ICE Futures Europe,ICE Futures Europe
+114,Prima Business Control Software,Prima Business Control Software
+115,Fox-Pitt Kelton Cochran Caronia Waller,Fox-Pitt Kelton Cochran Caronia Waller
+116,Monarflex,Monarflex
+117,Jardinerie,Jardinerie
+118,Tote Direct,Tote Direct
+119,Haringey Schools,Haringey Schools
+120,St Ives Financial,St Ives Financial
+121,Simmons & Simmons,Simmons & Simmons
+122,Blake Lapthorn Tarlo Lyons,Blake Lapthorn Tarlo Lyons
+123,Rickitt Mitchell & Partners,Rickitt Mitchell & Partners
+124,Eversheds Sutherland,Eversheds Sutherland
+125,Eastern Scotland Investments,Eastern Scotland Investments
+126,Sage Enterprise Solutions,Sage Enterprise Solutions
+127,Advantage Capital,Advantage Capital
+128,British Standards Institution,British Standards Institution
+129,Burges Salmon,Burges Salmon
+130,Goldman Sachs International,Goldman Sachs International
+131,Fresh Capital Group,Fresh Capital Group
+132,Omnia Asset Management,Omnia Asset Management
+133,Safetynet Group,Safetynet Group
+134,Hogan Lovells,Hogan Lovells
+135,De Bradelei Mill Shops,De Bradelei Mill Shops
+136,Tripod Crest Group,Tripod Crest Group
+137,Tower Casino Group,Tower Casino Group
+138,Gainsborough Group,Gainsborough Group
+139,Amocura,Amocura
+140,Practice Net,Practice Net
+141,"Cambridge Network, The",Cambridge Network
+142,Phoenix Relocation Services,Phoenix Relocation Services
+143,TheBrickBusiness,TheBrickBusiness
+144,Dofos Pet Centre,Dofos Pet Centre
+145,Market Information Services,Market Information Services
+146,BB's Coffee & Muffins,BB's Coffee & Muffins
+147,Shakespeares,Shakespeares
+148,Gosschalks Solicitors,Gosschalks Solicitors
+149,BHP Corporate Finance,BHP Corporate Finance
+150,Barlow Lyde & Gilbert,Barlow Lyde & Gilbert
+151,Bridges Fund Management,Bridges Fund Management
+152,Schofield Sweeney Solicitors,Schofield Sweeney Solicitors
+153,Boodle Hatfield,Boodle Hatfield
+154,AVC Immedia,AVC Immedia
+155,BioIndustry Association,BioIndustry Association
+156,Aaron & Partners,Aaron & Partners
+157,Albert Goodman Lewis,Albert Goodman Lewis
+158,Auker Rhodes,Auker Rhodes
+159,Barnes Roffe,Barnes Roffe
+160,Bates Wells Braithwaite,Bates Wells Braithwaite
+161,Beachcroft Wansbroughs,Beachcroft Wansbroughs
+162,Bell & Scott,Bell & Scott
+163,Berryman Shacklocks,Berryman Shacklocks
+164,Berrymans Lace Mawer,Berrymans Lace Mawer
+165,HW Chartered Accountants,HW Chartered Accountants
+166,Blackett Hart & Pratt,Blackett Hart & Pratt
+167,Blick Rothenberg,Blick Rothenberg
+168,Blythe Liggins,Blythe Liggins
+169,Bond Dickinson,Bond Dickinson
+170,Bower & Bailey Solicitors,Bower & Bailey Solicitors
+171,Breeze and Wyles Solicitors,Breeze and Wyles Solicitors
+172,Bristows,Bristows
+173,BPR Heaton,BPR Heaton
+174,Brookstreet Des Roches,Brookstreet Des Roches
+175,Brown Turner Ross,Brown Turner Ross
+176,Campbell Hooper,Campbell Hooper
+177,Campbell Smith,Campbell Smith
+178,Elliott Duffy Garrett,Elliott Duffy Garrett
+179,Dundas & Wilson,Dundas & Wilson
+180,Paull & Williamsons,Paull & Williamsons
+181,Taylor Vinters,Taylor Vinters
+182,Chord Capital,Chord Capital
+183,Harvey Ingram Borneos,Harvey Ingram Borneos
+184,Reynolds Porter Chamberlain,Reynolds Porter Chamberlain
+185,Fox Williams,Fox Williams
+186,Wilkes Partnership,Wilkes Partnership
+187,Mills & Reeve,Mills & Reeve
+188,Moore & Blatch,Moore & Blatch
+189,Finers Stephens Innocent,Finers Stephens Innocent
+190,Sacker & Partners,Sacker & Partners
+191,Short Richardson & Forth,Short Richardson & Forth
+192,Wright Johnston & Mackenzie,Wright Johnston & Mackenzie
+193,Fanshawe Lofts,Fanshawe Lofts
+194,Hugh James Jones & Jenkins,Hugh James Jones & Jenkins
+195,Williamsons Solicitors Limited Liability Partnership,Williamsons Solicitors
+196,Williamsons Solicitors1 Limited Liability Partnership,Williamsons Solicitors
+197,Williamsons Solicitors,Williamsons Solicitors
+198,Davenport Lyons,Davenport Lyons
+199,Duncan & Toplis,Duncan & Toplis
+200,Pannone & Partners,Pannone & Partners
+201,Hewitt & Gilpin,Hewitt & Gilpin
+202,Watson Burton,Watson Burton
+203,Higgs & Sons,Higgs & Sons
+204,Saffery Champness,Saffery Champness
+205,Carson McDowell,Carson McDowell
+206,Moorhead James,Moorhead James
+207,Cartwright King,Cartwright King
+208,Mullis & Peake,Mullis & Peake
+209,Clarke Willmott,Clarke Willmott
+210,MacRoberts Solicitors,MacRoberts Solicitors
+211,Winckworth Sherwood,Winckworth Sherwood
+212,Collyer-Bristow,Collyer-Bristow
+213,Payne Hicks Beach,Payne Hicks Beach
+214,Lyons Davidson,Lyons Davidson
+215,Kingsley Napley,Kingsley Napley
+216,Semple Fraser W.S.,Semple Fraser W.S.
+217,Last Cawthra Feather,Last Cawthra Feather
+218,Prettys Solicitors,Prettys Solicitors
+219,Confidential Assignments,Confidential Assignments
+220,Kent Jones & Done,Kent Jones & Done
+221,Rollit Farrell & Bladon,Rollit Farrell & Bladon
+222,Gardner Leader,Gardner Leader
+223,Lupton Fawcett Denison Till,Lupton Fawcett Denison Till
+224,SNG Commercial Law,SNG Commercial Law
+225,Gibson Booth,Gibson Booth
+226,Rosling King Solicitors,Rosling King Solicitors
+227,Clarkson Wright & Jakes,Clarkson Wright & Jakes
+228,May May & Merrimans,May May & Merrimans
+229,Lamb Brooks,Lamb Brooks
+230,DMH Stallard,DMH Stallard
+231,Oxley & Coward,Oxley & Coward
+232,Scrutton Bland,Scrutton Bland
+233,Cumberland Ellis Peirs,Cumberland Ellis Peirs
+234,McCabe Ford Williams,McCabe Ford Williams
+235,Davis Blank Furniss,Davis Blank Furniss
+236,Mackrell Turner Garrett,Mackrell Turner Garrett
+237,Whitelaw Wells,Whitelaw Wells
+238,Nyman Libson Paul,Nyman Libson Paul
+239,Connelly & Yeoman,Connelly & Yeoman
+240,Warner Goodman & Streat,Warner Goodman & Streat
+241,Whittingham Riddell,Whittingham Riddell
+242,Wake Smith Solicitors,Wake Smith Solicitors
+243,Rawlinson & Hunter,Rawlinson & Hunter
+244,Royce Peeling Green,Royce Peeling Green
+245,Wilson Nesbitt,Wilson Nesbitt
+246,Crouch Chapman,Crouch Chapman
+247,Langleys,Langleys
+248,Parkinson Wright,Parkinson Wright
+249,Ward & Rider,Ward & Rider
+250,Kilsby & Williams,Kilsby & Williams
+251,Stephens & Scown,Stephens & Scown
+252,Midicorp Corporate Finance,Midicorp Corporate Finance
+253,Simons Muirhead & Burton,Simons Muirhead & Burton
+254,Collins Benson Goldhill,Collins Benson Goldhill
+255,Forester Maclean,Forester Maclean
+256,Day Smith & Hunter,Day Smith & Hunter
+257,Lane & Partners,Lane & Partners
+258,Coles Miller,Coles Miller
+259,Miller Samuel Hill Brown,Miller Samuel Hill Brown
+260,Stamp Jackson & Procter,Stamp Jackson & Procter
+261,Cartmell Shepherd,Cartmell Shepherd
+262,Conway & Co Solicitors,Conway & Co Solicitors
+263,Challinors Solicitors,Challinors Solicitors
+264,Rayner Essex,Rayner Essex
+265,Weatherer Bailey Bragg,Weatherer Bailey Bragg
+266,Lambert Roper & Horsfield,Lambert Roper & Horsfield
+267,Martin & Acock,Martin & Acock
+268,Dutton Gregory Solicitors,Dutton Gregory Solicitors
+269,Taylor & Emmet,Taylor & Emmet
+270,John Henderson & Sons,John Henderson & Sons
+271,Stones Solicitors,Stones Solicitors
+272,James & George Collie,James & George Collie
+273,Lees Lloyd Whitley,Lees Lloyd Whitley
+274,Lindsays,Lindsays
+275,Platt & Fishwick,Platt & Fishwick
+276,Larking Gowen,Larking Gowen
+277,Drummond Miller,Drummond Miller
+278,Ingenious Ventures,Ingenious Ventures
+279,DC Advisory,DC Advisory
+280,Alpha Plus Group,Alpha Plus Group
+281,Wilsons,Wilsons
+282,Latimer Hinks Solicitors,Latimer Hinks Solicitors
+283,Mitchell Gordon,Mitchell Gordon
+284,Hill Taylor Dickinson,Hill Taylor Dickinson
+285,Fox Hayes,Fox Hayes
+286,Dunlop Standard Aerospace Group,Dunlop Standard Aerospace Group
+287,South Yorkshire Investment Fund,South Yorkshire Investment Fund
+288,PSG International,PSG International
+289,Creaseys,Creaseys
+290,The Mortgage and Loan Group,Mortgage and Loan Group
+291,Nexus Solicitors,Nexus Solicitors
+292,CleanCut Technologies,CleanCut Technologies
+293,Ormolu Group,Ormolu Group
+294,Amadeus I,Amadeus I
+295,BC European Capital VI,BC European Capital V
+296,Advent Private Equity Fund II,Advent Private Equity Fund II
+297,Advent Private Equity Fund III,Advent Private Equity Fund II
+298,Frontiers Capital I,Frontiers Capital I
+299,Patron Capital L.P. I,Patron Capital L.P. II
+300,SEP II,SEP II
+301,Avlar BioVentures Fund I,Avlar BioVentures Fund I
+302,BC European Capital V,BC European Capital V
+303,HSBC UK Enterprise Fund for East Anglia & the Home Counties,HSBC UK Enterprise Fund for East Anglia & the Home Counties
+304,HSBC UK Enterprise Fund for Greater London,HSBC UK Enterprise Fund for Greater London
+305,North East Seed Capital Fund,North East Seed Capital Fund
+306,Brown Shipley Development Capital Fund,Brown Shipley Development Capital Fund
+307,The Second Brown Shipley Fund,Second Brown Shipley Fund
+308,Albemarle IV,Albemarle IV
+309,Henderson Unquoted Growth Equities Fund 1,Henderson Unquoted Growth Equities Fund 1
+310,Managed Technology Investors,Managed Technology Investors
+311,Murray Johnstone Private Acquisitions Partnership I,Murray Johnstone Private Acquisitions Partnership I
+312,Murray Johnstone Private Acquisitions Partnership II,Murray Johnstone Private Acquisitions Partnership I
+313,Apax Ventures IV,Apax Ventures IV
+314,Apax European Buy-In Fund,Apax European Buy-In Fund
+315,Charterhouse Capital Partners V,Charterhouse Capital Partners V
+316,The Launchpad Fund,Launchpad Fund
+317,UK Medical Ventures Fund,UK Medical Ventures Fund
+318,United Utilities Venture Fund,United Utilities Venture Fund
+319,3i UK Investment Partners,3i UK Investment Partners
+320,HSBC UK Enterprise Fund for the South West,HSBC UK Enterprise Fund for the South West
+321,Avlar BioVentures Fund II,Avlar BioVentures Fund I
+322,Amadeus Mobile Seed Fund I,Amadeus Mobile Seed Fund I
+323,European Property Partners,European Property Partners
+324,Albany Ventures Fund III,Albany Ventures Fund III
+325,Equistone Partners Europe Fund I,Equistone Partners Europe Fund II
+326,The Bregal Fund,Bregal Fund
+327,South Yorkshire Investment Capital Fund,South Yorkshire Investment Capital Fund
+328,"South Yorkshire Investment Small Business Fund, The",South Yorkshire Investment Small Business Fund
+329,South Yorkshire Investment Development Fund,South Yorkshire Investment Development Fund
+330,Merlin Biosciences Fund III,Merlin Biosciences Fund III
+331,Nova Technology Fund,Nova Technology Fund
+332,SL Private Equity,SL Private Equity
+333,Transatlantic Capital Bio-Sciences Fund,Transatlantic Capital Bio-Sciences Fund
+334,Peters Elworthy & Moore,Peters Elworthy & Moore
+335,Lovewell Blake,Lovewell Blake
+336,Turquoise Derivatives Exchange,Turquoise Derivatives Exchange
+337,Stafford Capital Partners,Stafford Capital Partners
+338,All Souls College Oxford,All Souls College Oxford
+339,Europa Capital,Europa Capital
+340,Chessington World of Adventures,Chessington World of Adventures
+341,London Planetarium,London Planetarium
+342,BMO Real Estate Partners,BMO Real Estate Partners
+343,Top Technology Ventures IV,Top Technology Ventures IV
+344,Smart Made Simple,Smart Made Simple
+345,WNJ Chartered Accountants,WNJ Chartered Accountants
+346,North West Equity Fund,North West Equity Fund
+347,South East Growth Fund,South East Growth Fund
+348,Frontiers Capital II,Frontiers Capital I
+349,Uniqsauces,Uniqsauces
+350,Indigo Capital IV,Indigo Capital IV
+351,Fisher Jones Greenwood,Fisher Jones Greenwood
+352,Rigaku Europe,Rigaku Europe
+353,Adelphi Management,Adelphi Management
+354,NetNames Group,NetNames Group
+355,Travelocity Europe,Travelocity Europe
+356,Glas Cymru Anghyfyngedig,Glas Cymru Anghyfyngedig
+357,Ponden Mill,Ponden Mill
+358,DSW Bridge Houghton Forensic,DSW Bridge Houghton Forensic
+359,Energyst Rental Solutions,Energyst Rental Solutions
+360,Credo Group of Companies,Credo Group of Companies
+361,Murray Capital,Murray Capital
+362,London Catering Services,London Catering Services
+363,"Colourhouse Group, The",Colourhouse Group
+364,London Court of International Arbitration,London Court of International Arbitration
+365,Capita Global Assistance,Capita Global Assistance
+366,University of Manchester,University of Manchester
+367,The Arts And Humanities Research Board,Arts And Humanities Research Board
+368,Bristol Contributory Welfare Association,Bristol Contributory Welfare Association
+369,Ufi Charitable Trust,Ufi Charitable Trust
+370,Society of Trusts and Estate Practitioners,Society of Trusts and Estate Practitioners
+371,The Royal National Pension Fund for Nurses,Royal National Pension Fund for Nurses
+372,Dunhills (Pontefract) P L C,Dunhills (Pontefract) P L C
+373,Riding for the Disabled Association,Riding for the Disabled Association
+374,Royal Yachting Association,Royal Yachting Association
+375,Telewest Broadband Eurobell,Telewest Broadband Eurobell
+376,Marie Stopes International,Marie Stopes International
+377,"World Gold Council, An Association","World Gold Council, An Association"
+378,Rohm Electronics (U.K.,Rohm Electronics (U.K.
+379,Jewish Care,Jewish Care
+380,Acr,Acr
+381,Advantage Growth Fund,Advantage Growth Fund
+382,University of Warwick,University of Warwick
+383,Bakkavor Desserts,Bakkavor Desserts
+384,TAG,TAG
+385,The Church Of England Children's Society,Church Of England Children's Society
+386,University Of London,University Of London
+387,"Sense, The National Deafblind and Rubella Association","Sense, The National Deafblind and Rubella Association"
+388,R.B. Chancery Investments,R.B. Chancery Investments
+389,Wide World Services,Wide World Services
+390,St Andrew's Healthcare,St Andrew's Healthcare
+391,The Guide Dogs For The Blind Association,Guide Dogs For The Blind Association
+392,"Royal National Institute For Deaf People, The",Royal National Institute For Deaf People
+393,Chess Partner Services,Chess Partner Services
+394,Abbey National UK Investments,Abbey National UK Investments
+395,Sue Ryder Care,Sue Ryder Care
+396,Ffg-Hillebrand,Ffg-Hillebrand
+397,William Sutton Homes,William Sutton Homes
+398,Butler Tanner & Dennis,Butler Tanner & Dennis
+399,Eastfield No. 15,Eastfield No. 15
+400,The Caudwell Group,Caudwell Group
+401,Csw Uk Holdings,Csw Uk Holdings
+402,Unisys Holdings,Unisys Holdings
+403,Morgan Stanley UK Group,Morgan Stanley UK Group
+404,Black & Decker International,Black & Decker International
+405,ExxonMobil Marine Lubricants,ExxonMobil Marine Lubricants
+406,Executive Interim Management,Executive Interim Management
+407,Finning Holdings,Finning Holdings
+408,Anglo Beef Processors Holdings,Anglo Beef Processors Holdings
+409,South West Ventures Fund,South West Ventures Fund
+410,Graphite Capital Partners VI,Graphite Capital Partners VI
+411,The Navy Army and Air Force Institutes,Navy Army and Air Force Institutes
+412,Wesleyan Assurance Society,Wesleyan Assurance Society
+413,Strobe 3,Strobe 3
+414,Adecco UK IT Holdings,Adecco UK IT Holdings
+415,RadcliffesLeBrasseur,RadcliffesLeBrasseur
+416,Countrywide Estate Agents,Countrywide Estate Agents
+417,QVC Britain,QVC Britain
+418,Pendragon Vehicle Management,Pendragon Vehicle Management
+419,Publicis Chemistry,Publicis Chemistry
+420,Goldman Sachs Property Management,Goldman Sachs Property Management
+421,Armstrong (U.K.) Investments,Armstrong (U.K.) Investments
+422,Simplyhealth Access,Simplyhealth Access
+423,Newcastle Building Society,Newcastle Building Society
+424,Blue 449,Blue 449
+425,The Cancer Research Campaign,Cancer Research Campaign
+426,Howard Denton International,Howard Denton International
+427,Flint Ink Europe,Flint Ink Europe
+428,Royal Mencap Society,Royal Mencap Society
+429,British Heart Foundation,British Heart Foundation
+430,Cranfield University,Cranfield University
+431,AQA Education,AQA Education
+432,Save The Children Fund,Save The Children Fund
+433,Munro Group,Munro Group
+434,University Of Greenwich,University Of Greenwich
+435,The London School of Economics and Political Science,London School of Economics and Political Science
+436,Leonard Cheshire Disability,Leonard Cheshire Disability
+437,University of Westminster,University of Westminster
+438,Yorkshire Copper Tube,Yorkshire Copper Tube
+439,The British Medical Association,British Medical Association
+440,Cunningham Lindsey United Kingdom,Cunningham Lindsey United Kingdom
+441,Help The Aged,Help The Aged
+442,Orbit Housing Association,Orbit Housing Association
+443,Marie Curie Cancer Care,Marie Curie Cancer Care
+444,NTL Glasgow,NTL Glasgow
+445,Actionaid,Actionaid
+446,Macmillan Cancer Support,Macmillan Cancer Support
+447,Charity Projects,Charity Projects
+448,University Of North London,University Of North London
+449,Consumers' Association,Consumers' Association
+450,The Crown Agents Foundation,Crown Agents Foundation
+451,Cole Associates Corporate Finance,Cole Associates Corporate Finance
+452,National Society For The Prevention Of Cruelty To Children,National Society For The Prevention Of Cruelty To Children
+453,M&G Real Estate,M&G Real Estate
+454,University Of Derby,University Of Derby
+455,Gibbon Inks And Coatings,Gibbon Inks And Coatings
+456,Global Media Production,Global Media Production
+457,The London Assurance,London Assurance
+458,Flamingo Horticulture,Flamingo Horticulture
+459,London Metropolitan University,London Metropolitan University
+460,Marex Financial,Marex Financial
+461,Roboscot Investments,Roboscot Investments
+462,London Business School,London Business School
+463,John Innes Centre,John Innes Centre
+464,St John Ambulance,St John Ambulance
+465,City & Guilds Of London Institute,City & Guilds Of London Institute
+466,Pacific Investments,Pacific Investments
+467,Housing 21,Housing 21
+468,Ntl Cablecomms Solent,Ntl Cablecomms Solent
+469,Ciro Citterio,Ciro Citterio
+470,Ford Automotive Holdings,Ford Automotive Holdings
+471,News Corp Investments UK & Ireland,News Corp Investments UK & Ireland
+472,EDS Europe,EDS Europe
+473,Clearwater International,Clearwater International
+474,Direct Line Financial Services,Direct Line Financial Services
+475,Halewood Wines & Spirits,Halewood Wines & Spirits
+476,Barnardo's,Barnardo's
+477,Scope,Scope
+478,The Royal College of Physicians,Royal College of Physicians
+479,Institute of Physics,Institute of Physics
+480,Liz Claiborne Europe,Liz Claiborne Europe
+481,GE Betz,GE Betz
+482,Brunel University,Brunel University
+483,Rentalcars.com,Rentalcars.com
+484,CBC (EUROPE) GmbH UK Branch,CBC (EUROPE) GmbH UK Branch
+485,"City, University of London","City, University of London"
+486,Clifton College,Clifton College
+487,Downing College,Downing College
+488,University Of Dundee,University Of Dundee
+489,University of Exeter,University of Exeter
+490,Gresham College,Gresham College
+491,Heriot-Watt University,Heriot-Watt University
+492,Imperial College,Imperial College
+493,The Institute of Chartered Accountants in England & Wales,Institute of Chartered Accountants in England & Wales
+494,King's College London,King's College London
+495,"Royal College of Music, London","Royal College of Music, London"
+496,Merton College,Merton College
+497,University of Nottingham,University of Nottingham
+498,Queen Mary,Queen Mary
+499,Royal Veterinary College,Royal Veterinary College
+500,London South Bank University,London South Bank University
+501,University of Stirling,University of Stirling
+502,University of Sussex,University of Sussex
+503,University of Bath,University of Bath
+504,University of Buckingham,University of Buckingham
+505,Balfour Convenience Stores,Balfour Convenience Stores
+506,University of East Anglia,University of East Anglia
+507,The University of Hull,University of Hull
+508,University of Leicester,University of Leicester
+509,Victoria University of Manchester,Victoria University of Manchester
+510,The University of Sheffield,University of Sheffield
+511,University of Surrey,University of Surrey
+512,Ulster University,Ulster University
+513,University of Wales,University of Wales
+514,University of York,University of York
+515,The College of North West London,College of North West London
+516,Blundell Permoglaze Holdings,Blundell Permoglaze Holdings
+517,Farleys Solicitors,Farleys Solicitors
+518,Sprinter 1233,Sprinter 1233
+519,Titanium Capital,Titanium Capital
+520,PGA European Tour,PGA European Tour
+521,Wilmington Business Information,Wilmington Business Information
+522,Digital Interactive Television Group,Digital Interactive Television Group
+523,Merrill Lynch International,Merrill Lynch International
+524,Alternative Assets Division,Alternative Assets Division
+525,Oracle EMEA Management,Oracle EMEA Management
+526,Partners BDDH,Partners BDDH
+527,"Edinburgh Business School, Heriot-Watt University","Edinburgh Business School, Heriot-Watt University"
+528,Country Mutual Insurance Brokers,Country Mutual Insurance Brokers
+529,The Cascade Fund,Cascade Fund
+530,Russell Jones & Walker,Russell Jones & Walker
+531,Location Strategy Management,Location Strategy Management
+532,The Worshipful Company of Information Technologists,Worshipful Company of Information Technologists
+533,Flint Bishop Solicitors,Flint Bishop Solicitors
+534,ninehundred communications,ninehundred communications
+535,Great Eastern Investment Forum,Great Eastern Investment Forum
+536,The Quoted Companies Alliance,Quoted Companies Alliance
+537,IBS Software Services,IBS Software Services
+538,Royal Society of Arts,Royal Society of Arts
+539,The Shakespeare Globe Trust,Shakespeare Globe Trust
+540,Richmond - The American International University in London,Richmond - The American International University in London
+541,The Chartered Institute of Marketing,Chartered Institute of Marketing
+542,"Harlaxton College, University of Evansville","Harlaxton College, University of Evansville"
+543,Magdalen College,Magdalen College
+544,The National Computing Centre,National Computing Centre
+545,New College Oxford University,New College Oxford University
+546,"St John's College, Oxford University","St John's College, Oxford University"
+547,"St. Hilda's College, Oxford University","St. Hilda's College, Oxford University"
+548,University of Bristol,University of Bristol
+549,Durham University,Durham University
+550,University of Liverpool,University of Liverpool
+551,University of Southampton,University of Southampton
+552,Rank Leisure Machine Services,Rank Leisure Machine Services
+553,Credit Suisse International,Credit Suisse International
+554,Iceni Seedcorn Fund,Iceni Seedcorn Fund
+555,The Prince's Trust,Prince's Trust
+556,Royal Academy Of Music In London,Royal Academy Of Music In London
+557,Marlborough College,Marlborough College
+558,University of Reading,University of Reading
+559,Newcastle University,Newcastle University
+560,Dawsons Solicitors,Dawsons Solicitors
+561,"Kings College, University of Cambridge","Kings College, University of Cambridge"
+562,"Oriel College, Oxford University","Oriel College, Oxford University"
+563,Corpus Christi College University of Cambridge,Corpus Christi College University of Cambridge
+564,Bangor University,Bangor University
+565,"Christ Church, University of Oxford","Christ Church, University of Oxford"
+566,EMA Partners International,EMA Partners International
+567,University College London,University College London
+568,Genesis Telecommunications,Genesis Telecommunications
+569,ViaNova European Buyout 2004,ViaNova European Buyout 2004
+570,The Financial Conduct Authority,Financial Conduct Authority
+571,Spratt Endicott Truman Solicitors,Spratt Endicott Truman Solicitors
+572,The Veolia Environmental Trust,Veolia Environmental Trust
+573,MCR Property Group,MCR Property Group
+574,The Manufacturing Technologies Association,Manufacturing Technologies Association
+575,Pearson Publishing,Pearson Publishing
+576,The Royal Society of Chemistry,Royal Society of Chemistry
+577,Supranational Hotels,Supranational Hotels
+578,QDose,QDose
+579,Alliott Group,Alliott Group
+580,Utility Business Services,Utility Business Services
+581,Consulting Strategies,Consulting Strategies
+582,Mortgage Express,Mortgage Express
+583,Neill-Tools,Neill-Tools
+584,Tyne Tees Television Holdings,Tyne Tees Television Holdings
+585,Intelligent Power Systems,Intelligent Power Systems
+586,Ecc Overseas Investments,Ecc Overseas Investments
+587,G E Capital Information Technology Solutions Holdings,G E Capital Information Technology Solutions Holdings
+588,Standard Chartered Bank,Standard Chartered Bank
+589,The Jockey Club,Jockey Club
+590,Grosvenor Estate Holdings,Grosvenor Estate Holdings
+591,Tobardyne Holdings,Tobardyne Holdings
+592,"Thomson Organisation (no 7), The",Thomson Organisation (no 7)
+593,GE Capital Equipment Finance Holdings,GE Capital Equipment Finance Holdings
+594,Smurfit Corrugated Holdings,Smurfit Corrugated Holdings
+595,Honeywell Group Holding UK II,Honeywell Group Holding UK II
+596,Mes Interco,Mes Interco
+597,Golden Acquisition,Golden Acquisition
+598,Huhtamaki Anglo Holding,Huhtamaki Anglo Holding
+599,Geopost Intermediate Holdings,Geopost Intermediate Holdings
+600,Confederation of British Industry,Confederation of British Industry
+601,Vincent Sykes & Higham,Vincent Sykes & Higham
+602,Richemont Investments,Richemont Investments
+603,Oregon Capital Partners,Oregon Capital Partners
+604,McIntosh of Dyce,McIntosh of Dyce
+605,24 Hour Museum,24 Hour Museum
+606,Mortgage Intelligence Holdings,Mortgage Intelligence Holdings
+607,Kingfisher International,Kingfisher International
+608,"350 Investment Partners LLP, Prior to change in line of business","350 Investment Partners LLP, Prior to change in line of business"
+609,Ha! Ha! Bar & Canteen,Ha! Ha! Bar & Canteen
+610,BMG Europe,BMG Europe
+611,Piper Private Equity III,Piper Private Equity III
+612,FRASER Manufacturing,FRASER Manufacturing
+613,Turney Wylde Construction,Turney Wylde Construction
+614,PHS Greenleaf,PHS Greenleaf
+615,AA Financial Services,AA Financial Services
+616,Dakota Hotels,Dakota Hotels
+617,Lloyd James Group,Lloyd James Group
+618,Enterprise-Liverpool,Enterprise-Liverpool
+619,United Real Estate,United Real Estate
+620,Briffa,Briffa
+621,EHS Brann,EHS Brann
+622,International Foundation for Aids to Navigation,International Foundation for Aids to Navigation
+623,Radnor Hills,Radnor Hills
+624,Frontline Consultancy,Frontline Consultancy
+625,WinScribe Europe,WinScribe Europe
+626,HENRY Denny and Sons,HENRY Denny and Sons
+627,Northern Ireland Hospice,Northern Ireland Hospice
+628,Highland Airways,Highland Airways
+629,VisitBritain,VisitBritain
+630,Bowmark Capital Partners III,Bowmark Capital Partners III
+631,Noble Environmental Solutions,Noble Environmental Solutions
+632,Tellings Golden Miller,Tellings Golden Miller
+633,Mactaggart & Mickel,Mactaggart & Mickel
+634,Polish Steel Holding,Polish Steel Holding
+635,Johnsons Solicitors,Johnsons Solicitors
+636,Photosound Communications,Photosound Communications
+637,Haywards Property Services,Haywards Property Services
+638,Gloucestershire Echo,Gloucestershire Echo
+639,MSIF Venture Fund,MSIF Venture Fund
+640,Warwick Control Technologies,Warwick Control Technologies
+641,Air Wales,Air Wales
+642,The Macaulay Land Use Research Institute,Macaulay Land Use Research Institute
+643,Hsbc City Funding Holdings,Hsbc City Funding Holdings
+644,Network Utilities,Network Utilities
+645,The British Horseracing Authority,British Horseracing Authority
+646,Tequila London,Tequila London
+647,Thales Missile Electronics,Thales Missile Electronics
+648,The Institution of Electrical Engineers,Institution of Electrical Engineers
+649,Print Quarterly Publications,Print Quarterly Publications
+650,Institute of Advanced Motorists,Institute of Advanced Motorists
+651,Ultra Premium Brands,Ultra Premium Brands
+652,Sika International,Sika International
+653,RSA Direct,RSA Direct
+654,TPS Consult,TPS Consult
+655,ACC Milk,ACC Milk
+656,Severfield-Reeve Projects,Severfield-Reeve Projects
+657,Gekko Partners,Gekko Partners
+658,Stirling Square Capital Partners First Fund,Stirling Square Capital Partners First Fund
+659,e-relationship marketing,e-relationship marketing
+660,York International Investments,York International Investments
+661,Cardiff Research Consortium,Cardiff Research Consortium
+662,Newcastle Gateshead Initiative,Newcastle Gateshead Initiative
+663,LAN 2 LAN,LAN 2 LAN
+664,PSA Spares,PSA Spares
+665,The Fine Art Society,Fine Art Society
+666,Bone Steel,Bone Steel
+667,Exterion Media Group,Exterion Media Group
+668,DH Morris Group,DH Morris Group
+669,Welsh Electronics Forum,Welsh Electronics Forum
+670,Institute of Public Finance and Accountancy,Institute of Public Finance and Accountancy
+671,BC European Capital IV,BC European Capital V
+672,Heatons Transport,Heatons Transport
+673,Publicis Blueprint,Publicis Blueprint
+674,Navyblue Design Group,Navyblue Design Group
+675,Scottish Opera,Scottish Opera
+676,Galliard Healthcare Communications,Galliard Healthcare Communications
+677,Enigma Vehicle Systems,Enigma Vehicle Systems
+678,Roslin Institute,Roslin Institute
+679,Technology Means Business,Technology Means Business
+680,Creative Scotland,Creative Scotland
+681,London & Quadrant Housing Trust,London & Quadrant Housing Trust
+682,Corporate Travel International,Corporate Travel International
+683,Almeida Theatre,Almeida Theatre
+684,The British Library,British Library
+685,British Screen Advisory Council,British Screen Advisory Council
+686,British Film Institute,British Film Institute
+687,Capital Law,Capital Law
+688,Logica Consulting,Logica Consulting
+689,Plexus Law,Plexus Law
+690,Azur Business Solutions,Azur Business Solutions
+691,The Rose Partnership,Rose Partnership
+692,S.T.S. Flooring,S.T.S. Flooring
+693,Liberty Information Technology,Liberty Information Technology
+694,Crosby Forsyth,Crosby Forsyth
+695,Wilson Publications,Wilson Publications
+696,Lambie Nairn,Lambie Nairn
+697,Standard Newspapers,Standard Newspapers
+698,BARKSTON Plastics,BARKSTON Plastics
+699,Amber Credit,Amber Credit
+700,Groupama Healthcare,Groupama Healthcare
+701,Coalfields Enterprise Fund,Coalfields Enterprise Fund
+702,The Chartered Insurance Institute,Chartered Insurance Institute
+703,Emerging Business Trust,Emerging Business Trust
+704,Beswick Paper Group,Beswick Paper Group
+705,Cambridge Crystallographic Data Centre,Cambridge Crystallographic Data Centre
+706,Anglia Forwarding Group,Anglia Forwarding Group
+707,FR Aviation Services,FR Aviation Services
+708,Retail Assist,Retail Assist
+709,Retail Assista,Retail Assist
+710,National Theatre of Scotland,National Theatre of Scotland
+711,Boalloy Fastruck Bodies,Boalloy Fastruck Bodies
+712,John Clark Motor Group,John Clark Motor Group
+713,Sumit Venture Fund One,Sumit Venture Fund One
+714,Sharp Technology Fund,Sharp Technology Fund
+715,Maydown International Tools,Maydown International Tools
+716,Emma Somerset & French Dressing,Emma Somerset & French Dressing
+717,GAC-OBC,GAC-OBC
+718,Skynet Applied Systems,Skynet Applied Systems
+719,Gryphon Corporate Counsel,Gryphon Corporate Counsel
+720,Wales Millennium Centre,Wales Millennium Centre
+721,Conduit Ventures Fund,Conduit Ventures Fund
+722,Fibrax,Fibrax
+723,Crutes,Crutes
+724,The Band & Brown Group,Band & Brown Group
+725,Scantec Personnel,Scantec Personnel
+726,Nathaniel Lichfield and Partners,Nathaniel Lichfield and Partners
+727,Winchester White Consultants,Winchester White Consultants
+728,T. M. Sutton,T. M. Sutton
+729,Infinity Mortgages,Infinity Mortgages
+730,Target Direct Print,Target Direct Print
+731,Quality Meat Scotland,Quality Meat Scotland
+732,Churchill Theatre,Churchill Theatre
+733,Low Carbon Vehicle Partnership,Low Carbon Vehicle Partnership
+734,Council for the Central Laboratory of the Research Councils,Council for the Central Laboratory of the Research Councils
+735,Natural Environment Research Council,Natural Environment Research Council
+736,Fordway Solutions,Fordway Solutions
+737,Quality Assurance Agency for Higher Education,Quality Assurance Agency for Higher Education
+738,The Association of Investment Companies,Association of Investment Companies
+739,Friends of the Earth Scotland,Friends of the Earth Scotland
+740,Edge & Thompson,Edge & Thompson
+741,Rare Breeds Survival Trust,Rare Breeds Survival Trust
+742,Chesford Grange Hotel,Chesford Grange Hotel
+743,Canal & River Trust,Canal & River Trust
+744,Management Consultancies Association,Management Consultancies Association
+745,Prestige Holidays,Prestige Holidays
+746,London First,London First
+747,Munro & Forster Communications,Munro & Forster Communications
+748,Millennium Point,Millennium Point
+749,Whiteline Group,Whiteline Group
+750,CreateCity,CreateCity
+751,Royal Incorporation of Architects in Scotland,Royal Incorporation of Architects in Scotland
+752,Peter Cook International,Peter Cook International
+753,Cookes Furniture,Cookes Furniture
+754,Bibby Factors International,Bibby Factors International
+755,Benedict Mackenzie,Benedict Mackenzie
+756,MERSEY Maritime,MERSEY Maritime
+757,Royal Academy of Dramatic Art,Royal Academy of Dramatic Art
+758,Royal College of General Practitioners,Royal College of General Practitioners
+759,Beacon Centre for the Blind,Beacon Centre for the Blind
+760,Advantage Business Angels,Advantage Business Angels
+761,Haseltine Lake Kempner,Haseltine Lake Kempner
+762,Waterways Trust,Waterways Trust
+763,Menter a Busnes,Menter a Busnes
+764,Monk Dunstone Associates,Monk Dunstone Associates
+765,Vibrandt,Vibrandt
+766,Castles Shopfitters,Castles Shopfitters
+767,Iceni Homes,Iceni Homes
+768,Advantage Travel Centres,Advantage Travel Centres
+769,Baylis and Harding,Baylis and Harding
+770,JLT iimia Wealth Management,JLT iimia Wealth Management
+771,Institute of Chartered Accountants of Scotland,Institute of Chartered Accountants of Scotland
+772,Health Enterprise East,Health Enterprise East
+773,Skills for Logistics,Skills for Logistics
+774,The Royal Institute of British Architects,Royal Institute of British Architects
+775,Engineering and Machinery Alliance,Engineering and Machinery Alliance
+776,Newman Labelling Systems,Newman Labelling Systems
+777,British Printing Industries Federation,British Printing Industries Federation
+778,Nuffield Health,Nuffield Health
+779,Cheetham Bell JWT,Cheetham Bell JWT
+780,Science Navigation Group,Science Navigation Group
+781,Institute of Legal Executives,Institute of Legal Executives
+782,Abbey Road Ventures,Abbey Road Ventures
+783,Chetwood Associates,Chetwood Associates
+784,D. J. Hewer,D. J. Hewer
+785,Davis Coffer Lyons,Davis Coffer Lyons
+786,City & Country Construction,City & Country Construction
+787,Commercial Real Estate Finance Council Europe,Commercial Real Estate Finance Council Europe
+788,Swedish Chamber of Commerce for United Kingdom,Swedish Chamber of Commerce for United Kingdom
+789,Raven Supplies,Raven Supplies
+790,Harvard Public Relations,Harvard Public Relations
+791,Allied Surveyors,Allied Surveyors
+792,Licensing Legal Solicitors,Licensing Legal Solicitors
+793,Hall Moore CHI,Hall Moore CHI
+794,Moredun Research Institute,Moredun Research Institute
+795,Patron Capital L.P. II,Patron Capital L.P. II
+796,National Housing Federation,National Housing Federation
+797,FIL Investments International,FIL Investments International
+798,FIL Pensions Management,FIL Pensions Management
+799,Nelsons Solicitors,Nelsons Solicitors
+800,EPIC Specialist Investments,EPIC Specialist Investments
+801,Christopher Street Capital,Christopher Street Capital
+802,Qube Shoes,Qube Shoes
+803,Heckmondwike FB,Heckmondwike FB
+804,Grant Thornton Corporate Finance,Grant Thornton Corporate Finance
+805,Hilton Norwich,Hilton Norwich
+806,Chartered Management Institute,Chartered Management Institute
+807,Krystals,Krystals
+808,NHS Confederation,NHS Confederation
+809,Avco Trust,Avco Trust
+810,Business in the Community Scotland,Business in the Community Scotland
+811,Institute of Cancer Research,Institute of Cancer Research
+812,Royal Exchange Assurance,Royal Exchange Assurance
+813,Jackie Cooper Public Relations,Jackie Cooper Public Relations
+814,Amcor Holding,Amcor Holding
+815,National Power International Holdings,National Power International Holdings
+816,IGE Engines Holdings,IGE Engines Holdings
+817,Proximity Worldwide,Proximity Worldwide
+818,Scottish Widows Financial Services Holdings,Scottish Widows Financial Services Holdings
+819,The Recycling Fund,Recycling Fund
+820,Ambassador Square,Ambassador Square
+821,Russell Bedford International,Russell Bedford International
+822,Sagesoft,Sagesoft
+823,Scotland International,Scotland International
+824,London School of Management,London School of Management
+825,University of Leeds,University of Leeds
+826,"Christ's College, University of Cambridge","Christ's College, University of Cambridge"
+827,Telecential Communications,Telecential Communications
+828,"St Edmund Hall, Oxford University","St Edmund Hall, Oxford University"
+829,"Pembroke College, Oxford University","Pembroke College, Oxford University"
+830,"University of London, Institute of Psychiatry","University of London, Institute of Psychiatry"
+831,The King's School Canterbury,King's School Canterbury
+832,Idealshopfitters,Idealshopfitters
+833,Material Entertainment,Material Entertainment
+834,Devonshires Solicitors,Devonshires Solicitors
+835,Advent Private Equity Fund IV,Advent Private Equity Fund II
+836,Loughborough University,Loughborough University
+837,Gonville and Caius College Cambridge University,Gonville and Caius College Cambridge University
+838,Hunter Apparel Solutions,Hunter Apparel Solutions
+839,Hunter Apparel Solutions L.L.P.,Hunter Apparel Solutions
+840,Hunter Apparel Solutions Limited Liability Partnership,Hunter Apparel Solutions
+841,Birkbeck College London,Birkbeck College London
+842,Cambridge Professional Academy,Cambridge Professional Academy
+843,Rees Bradley Hepburn,Rees Bradley Hepburn
+844,Centre for European Reform,Centre for European Reform
+845,The International Institute for Strategic Studies,International Institute for Strategic Studies
+846,Hector Russell,Hector Russell
+847,Royal Free and University College Medical School,Royal Free and University College Medical School
+848,Newman Scott,Newman Scott
+849,Lloyd's Register EMEA,Lloyd's Register EMEA
+850,Todd-AO Europe,Todd-AO Europe
+851,Alternative Investment Management Association,Alternative Investment Management Association
+852,Wood Group Production Technology,Wood Group Production Technology
+853,Cornwall Enterprise,Cornwall Enterprise
+854,Whale Tankers,Whale Tankers
+855,Institute of Directors,Institute of Directors
+856,Kinetique Biomedical Seed Fund,Kinetique Biomedical Seed Fund
+857,Manchester Investment and Development Agency Service,Manchester Investment and Development Agency Service
+858,Marston's Safety Systems Group,Marston's Safety Systems Group
+859,Oxford Instruments Molecular Biotools,Oxford Instruments Molecular Biotools
+860,Hewitson Moorhead,Hewitson Moorhead
+861,Institute of Practitioners in Advertising,Institute of Practitioners in Advertising
+862,Rummey Design Associates,Rummey Design Associates
+863,Steelonthenet.com,Steelonthenet.com
+864,The Epic Group,Epic Group
+865,Nildram,Nildram
+866,Variety Foods,Variety Foods
+867,Intec Business Colleges,Intec Business Colleges
+868,Equistone Partners Europe Fund II,Equistone Partners Europe Fund II
+869,Otterhound Investments,Otterhound Investments
+870,Assured Property Management,Assured Property Management
+871,Dart Valley Railway,Dart Valley Railway
+872,Harrison & Hetherington,Harrison & Hetherington
+873,Accuma Plastics,Accuma Plastics
+874,Alsecure,Alsecure
+875,Bodmin & Wenford Railway,Bodmin & Wenford Railway
+876,Bristol City Holdings,Bristol City Holdings
+877,Burry & Knight,Burry & Knight
+878,Capital Index Group,Capital Index Group
+879,City Financial Administration,City Financial Administration
+880,Copthorne Aberdeen,Copthorne Aberdeen
+881,Domebest,Domebest
+882,Barclay Simpson,Barclay Simpson
+883,Choralis Consulting,Choralis Consulting
+884,Fostering Support Group,Fostering Support Group
+885,Allied Radio,Allied Radio
+886,Apta Healthcare,Apta Healthcare
+887,Bletchley Motor Group,Bletchley Motor Group
+888,Britannia Group,Britannia Group
+889,CNC Properties,CNC Properties
+890,Copymore,Copymore
+891,Cussins Property Group,Cussins Property Group
+892,Hafren Dyfrdwy Cyfyngedig,Hafren Dyfrdwy Cyfyngedig
+893,Endeavour Technologies,Endeavour Technologies
+894,The Manchester Grammar School,Manchester Grammar School
+895,Hambro Insurance Services Group,Hambro Insurance Services Group
+896,Gillingham Football Club,Gillingham Football Club
+897,Govett Oriental Investment Trust,Govett Oriental Investment Trust
+898,Illingworth Morris,Illingworth Morris
+899,International Communication & Data,International Communication & Data
+900,Kingfisher Leisure,Kingfisher Leisure
+901,Kingsbury Group,Kingsbury Group
+902,Leigh Interests,Leigh Interests
+903,Leslie Wise Group,Leslie Wise Group
+904,Lovat Investments,Lovat Investments
+905,Molyneux Estates,Molyneux Estates
+906,Multitone Electronics,Multitone Electronics
+907,Neil Macarthur,Neil Macarthur
+908,Persona Group,Persona Group
+909,Prevention & Detection Holdings,Prevention & Detection Holdings
+910,Rpt Management Services,Rpt Management Services
+911,Schneiders (S.) & Son,Schneiders (S.) & Son
+912,Scimitar Care Hotels,Scimitar Care Hotels
+913,Stat-Plus Group,Stat-Plus Group
+914,LMPE Realisations Limted,LMPE Realisations Limted
+915,United Assurance Group,United Assurance Group
+916,Airlinks Airport Services,Airlinks Airport Services
+917,Diffiniti,Diffiniti
+918,Harrison Cowley North,Harrison Cowley North
+919,LEAD International,LEAD International
+920,Mivan Kier,Mivan Kier
+921,United Friendly Group,United Friendly Group
+922,MKH Advertising,MKH Advertising
+923,Sg Petch,Sg Petch
+924,Minc Property Enterprises,Minc Property Enterprises
+925,British Insurance Brokers' Association,British Insurance Brokers' Association
+926,Avonline,Avonline
+927,GoSkills,GoSkills
+928,Worldwide Leisure Group,Worldwide Leisure Group
+929,Whitecross Group,Whitecross Group
+930,Bandvulc Tyres,Bandvulc Tyres
+931,The Landscape Partnership,Landscape Partnership
+932,Aberdeen Steak Houses Group,Aberdeen Steak Houses Group
+933,Peterborough Pirates,Peterborough Pirates
+934,Allport Supply Chain Management,Allport Supply Chain Management
+935,Hadleigh,Hadleigh
+936,Bonne Bouche,Bonne Bouche
+937,NewSmith Opportunities Fund,NewSmith Opportunities Fund
+938,Campbell & Armstrong,Campbell & Armstrong
+939,Kenning Motor Group,Kenning Motor Group
+940,Chartwell International Group,Chartwell International Group
+941,Essex & Suffolk Water,Essex & Suffolk Water
+942,Eastern Counties Newspapers,Eastern Counties Newspapers
+943,Kay's Atlas Brewery,Kay's Atlas Brewery
+944,Buckingham International,Buckingham International
+945,Plantsbrook Group,Plantsbrook Group
+946,Davenport Vernon,Davenport Vernon
+947,Hart Hotels,Hart Hotels
+948,Loop Customer Management,Loop Customer Management
+949,Brands2life,Brands2life
+950,AFLS+P Architects,AFLS+P Architects
+951,Culpeper,Culpeper
+952,Fermain Investments,Fermain Investments
+953,Ferroli,Ferroli
+954,Hop Back Brewery,Hop Back Brewery
+955,Insped,Insped
+956,Interdab,Interdab
+957,Merlin International Properties,Merlin International Properties
+958,Octagon Movie & Media,Octagon Movie & Media
+959,Netpartnering.com,Netpartnering.com
+960,North Norfolk Railway,North Norfolk Railway
+961,Egmont Magazines,Egmont Magazines
+962,Picardy Media Group,Picardy Media Group
+963,Portobello Developments,Portobello Developments
+964,Psc Heavy Lift,Psc Heavy Lift
+965,RLM Finance,RLM Finance
+966,Second West Securities,Second West Securities
+967,Hertford College,Hertford College
+968,Stramongate,Stramongate
+969,Loss Prevention Council,Loss Prevention Council
+970,Templeco 379,Templeco 379
+971,Kaba Door Systems,Kaba Door Systems
+972,West Somerset Railway,West Somerset Railway
+973,AB Consulting,AB Consulting
+974,Badger Hotels,Badger Hotels
+975,Barrow Hepburn Group,Barrow Hepburn Group
+976,C4 Carbides,C4 Carbides
+977,Chiltern Radio,Chiltern Radio
+978,Cluff Oil,Cluff Oil
+979,Collectibles Trading,Collectibles Trading
+980,Embassy Property Group,Embassy Property Group
+981,Fothergill & Harvey,Fothergill & Harvey
+982,Icomms Media Group,Icomms Media Group
+983,Kapital Ventures,Kapital Ventures
+984,Lyric Hotels Group,Lyric Hotels Group
+985,Midlands Radio,Midlands Radio
+986,Simpsons Of Cornhill,Simpsons Of Cornhill
+987,Solicitors Indemnity Fund,Solicitors Indemnity Fund
+988,National Association of Pension Funds,National Association of Pension Funds
+989,MT Thaler Investment Management,MT Thaler Investment Management
+990,Association Of British Pharmaceutical Industry,Association Of British Pharmaceutical Industry
+991,British Operational Research Society,British Operational Research Society
+992,Edinburgh International Conference Centre,Edinburgh International Conference Centre
+993,Pinder Fry & Benjamin,Pinder Fry & Benjamin
+994,Mechanical-Copyright Protection Society,Mechanical-Copyright Protection Society
+995,Livesmart,Livesmart
+996,Hi-Fi Corner,Hi-Fi Corner
+997,Brighton Housing Trust,Brighton Housing Trust
+998,Association of Cereal Food Manufacturers,Association of Cereal Food Manufacturers
+999,Nestor Disability Analysis,Nestor Disability Analysis
+1000,National Consumer Council,National Consumer Council
+1001,Pensions Management Institute,Pensions Management Institute
+1002,Topland Group,Topland Group
+1003,Link House Magazines,Link House Magazines
+1004,Celador Films,Celador Films
+1005,QXSystems,QXSystems
+1006,cp3i,cp3i
+1007,Panther Platform Rentals,Panther Platform Rentals
+1008,Cosalt:Ballyclare,Cosalt:Ballyclare
+1009,Commission for Architecture and the Built Environment,Commission for Architecture and the Built Environment
+1010,Avalon Distribution,Avalon Distribution
+1011,European Business Jets,European Business Jets
+1012,Newcross Healthcare Solutions,Newcross Healthcare Solutions
+1013,David McLean Developments,David McLean Developments
+1014,Hartnell Taylor Cook,Hartnell Taylor Cook
+1015,The West Retford Hotel,West Retford Hotel
+1016,FiReBuy,FiReBuy
+1017,axis Health Care,axis Health Care
+1018,Royal Institution of Chartered Surveyors,Royal Institution of Chartered Surveyors
+1019,Thistledown Dev,Thistledown Dev
+1020,Malcolm of Brookfield,Malcolm of Brookfield
+1021,Traidcraft,Traidcraft
+1022,Airth Castle,Airth Castle
+1023,Riverside ECHG,Riverside ECHG
+1024,Foundation Housing Association,Foundation Housing Association
+1025,Thorn Baker,Thorn Baker
+1026,Regus H,Regus H
+1027,Apache North Sea Investment,Apache North Sea Investment
+1028,Glas Cymru (securities) Cyfyngedig,Glas Cymru (securities) Cyfyngedig
+1029,HSBC Lodge Funding (UK) Holdings,HSBC Lodge Funding (UK) Holdings
+1030,Unite,Unite
+1031,Wise Conclusion,Wise Conclusion
+1032,Travelopia,Travelopia
+1033,Carltonco Ninety-Six,Carltonco Ninety-Six
+1034,National Space Centre,National Space Centre
+1035,GE Capital Services,GE Capital Services
+1036,Arjo Wiggins Us Holdings,Arjo Wiggins Us Holdings
+1037,Electrolux Investments,Electrolux Investments
+1038,RBS Asset Management Holdings,RBS Asset Management Holdings
+1039,Cashwide,Cashwide
+1040,Chartered Institute Of Management Accountants,Chartered Institute Of Management Accountants
+1041,West Waddy ADP,West Waddy ADP
+1042,Mouchel Parkman ServiGroup,Mouchel Parkman ServiGroup
+1043,International Underwriting Association,International Underwriting Association
+1044,Zircosil Overseas Holdings,Zircosil Overseas Holdings
+1045,Association of Business Recovery Professionals,Association of Business Recovery Professionals
+1046,IBM North Region Holdings,IBM North Region Holdings
+1047,IGE USA Investments,IGE USA Investments
+1048,Hoops,Hoops
+1049,Goodrich Control Systems,Goodrich Control Systems
+1050,J.C.B. Service,J.C.B. Service
+1051,Cargill Holdings,Cargill Holdings
+1052,Lloyd's Market Association,Lloyd's Market Association
+1053,National Day Nurseries Association,National Day Nurseries Association
+1054,Children's Workforce Development Council,Children's Workforce Development Council
+1055,Yum! Restaurant Holdings,Yum! Restaurant Holdings
+1056,Connex South Eastern,Connex South Eastern
+1057,Insolvency Practitioners Association,Insolvency Practitioners Association
+1058,Brandon Medical,Brandon Medical
+1059,Associated British Ports,Associated British Ports
+1060,Pepsico Holdings,Pepsico Holdings
+1061,Hollinger Uk Holdings,Hollinger Uk Holdings
+1062,Lantra,Lantra
+1063,Southern Space,Southern Space
+1064,Vale Inco Europe Holdings,Vale Inco Europe Holdings
+1065,Absolute Leisure,Absolute Leisure
+1066,Glasgow Chamber Of Commerce,Glasgow Chamber Of Commerce
+1067,Millennium Inorganic Chemicals Overseas Holdings,Millennium Inorganic Chemicals Overseas Holdings
+1068,Anchor Hanover Group,Anchor Hanover Group
+1069,Ocean Car Wash,Ocean Car Wash
+1070,Boughton Holdings,Boughton Holdings
+1071,Bafin Holdings,Bafin Holdings
+1072,Chiquito,Chiquito
+1073,Lyb Generation Holdings,Lyb Generation Holdings
+1074,Notting Hill Genesis,Notting Hill Genesis
+1075,Lion Capital Fund I,Lion Capital Fund I
+1076,Shine @ The Academy,Shine @ The Academy
+1077,Sanctuary Housing Association,Sanctuary Housing Association
+1078,Lloyds Pharmaceuticals,Lloyds Pharmaceuticals
+1079,New Mind | tellUs,New Mind | tellUs
+1080,The Power of One,Power of One
+1081,Codemasters Birmingham,Codemasters Birmingham
+1082,Saffery Champness Corporate Finance,Saffery Champness Corporate Finance
+1083,Marketing Communication & Services,Marketing Communication & Services
+1084,Ubs Reorganisation 2016-01,Ubs Reorganisation 2016-01
+1085,University of Bolton,University of Bolton
+1086,Exertis Supplies,Exertis Supplies
+1087,Leathleys Quality Fare,Leathleys Quality Fare
+1088,Coates Rentair,Coates Rentair
+1089,Sotheby's London,Sotheby's London
+1090,Mavenir Uk Holdings,Mavenir Uk Holdings
+1091,Connells Residential,Connells Residential
+1092,The Second Industrial Partnership,Second Industrial Partnership
+1093,ScaleUp Capital,ScaleUp Capital
+1094,British Refugee Council,British Refugee Council
+1095,Community Integrated Care,Community Integrated Care
+1096,"Siemens Metering, Communications and Services","Siemens Metering, Communications and Services"
+1097,Conran & Partners,Conran & Partners
+1098,O Tiltscher & Son,O Tiltscher & Son
+1099,The National Autistic Society,National Autistic Society
+1100,Stadco Castle Bromwich,Stadco Castle Bromwich
+1101,Shaw Group UK Holdings,Shaw Group UK Holdings
+1102,Uk Film Council,Uk Film Council
+1103,LIFFE Administration and Management,LIFFE Administration and Management
+1104,Peabody Trust,Peabody Trust
+1105,Argus Capital Partners II,Argus Capital Partners II
+1106,Cambridge Vacuum Engineering,Cambridge Vacuum Engineering
+1107,National House Building Council,National House Building Council
+1108,The Football Foundation,Football Foundation
+1109,Sappi Europe Holding,Sappi Europe Holding
+1110,Community Foundation Network,Community Foundation Network
+1111,English 2000 School of English,English 2000 School of English
+1112,IBB Solicitors,IBB Solicitors
+1113,International Corporate Governance Network,International Corporate Governance Network
+1114,Kimbells Freeth,Kimbells Freeth
+1115,Turning Point,Turning Point
+1116,M H A Care Group,M H A Care Group
+1117,Methodist Homes,Methodist Homes
+1118,The United Kingdom Committee For Unicef,United Kingdom Committee For Unicef
+1119,Knowsley Housing Trust,Knowsley Housing Trust
+1120,English National Opera,English National Opera
+1121,The National Association Of Citizens Advice Bureaux,National Association Of Citizens Advice Bureaux
+1122,The Royal National Theatre,Royal National Theatre
+1123,Associated International Management,Associated International Management
+1124,Kantar Worldpanel,Kantar Worldpanel
+1125,Business Link For London,Business Link For London
+1126,T.K. Maxx,T.K. Maxx
+1127,Quality Improvement Agency,Quality Improvement Agency
+1128,Birmingham Chamber Of Commerce & Industry,Birmingham Chamber Of Commerce & Industry
+1129,Summit UK Oil Limted,Summit UK Oil Limted
+1130,Tearfund,Tearfund
+1131,Wwf-Uk,Wwf-Uk
+1132,Improvement And Development Agency For Local Government,Improvement And Development Agency For Local Government
+1133,Tellimer Group,Tellimer Group
+1134,British Educational Communications & Technology Agency,British Educational Communications & Technology Agency
+1135,British Property Federation,British Property Federation
+1136,The Orders Of St. John Care Trust,Orders Of St. John Care Trust
+1137,Store Development Group,Store Development Group
+1138,National Pharmacy Association,National Pharmacy Association
+1139,Burness Corlett-Three Quays Group,Burness Corlett-Three Quays Group
+1140,Unipart Rail Logistics,Unipart Rail Logistics
+1141,Edge Foundation,Edge Foundation
+1142,Victim Support,Victim Support
+1143,Waste & Resources Action Programme,Waste & Resources Action Programme
+1144,British Business Angels Association,British Business Angels Association
+1145,The Extracare Charitable Trust,Extracare Charitable Trust
+1146,Day International (Uk) Holdings,Day International (Uk) Holdings
+1147,NTL Cablecomms Greater Manchester,NTL Cablecomms Greater Manchester
+1148,Quarriers,Quarriers
+1149,Rathbone Training,Rathbone Training
+1150,The Fremantle Trust,Fremantle Trust
+1151,Avante Partnership,Avante Partnership
+1152,Leap Confronting Conflict,Leap Confronting Conflict
+1153,Shaftesbury Society,Shaftesbury Society
+1154,The Family Fund Trust For Families With Severely Disabled Children,Family Fund Trust For Families With Severely Disabled Children
+1155,United Bible Societies Association,United Bible Societies Association
+1156,Pre-School Learning Alliance,Pre-School Learning Alliance
+1157,Aberdeen SVG Private Equity,Aberdeen SVG Private Equity
+1158,Black & Decker Europe,Black & Decker Europe
+1159,United Church Schools Trust,United Church Schools Trust
+1160,Macintyre Care,Macintyre Care
+1161,Carr-Gomm,Carr-Gomm
+1162,Meadowcroft,Meadowcroft
+1163,The Cardiff Bay Partnership,Cardiff Bay Partnership
+1164,The Pirbright Institute,Pirbright Institute
+1165,15billion,15billion
+1166,Voluntary Service Overseas,Voluntary Service Overseas
+1167,Knowles Europe,Knowles Europe
+1168,Sandusky Uk Holdings,Sandusky Uk Holdings
+1169,Huco Engineering Industries,Huco Engineering Industries
+1170,Corus Hotel Hyde Park,Corus Hotel Hyde Park
+1171,Chapter Hotels,Chapter Hotels
+1172,The Nottingham Post,Nottingham Post
+1173,Development Planning Partnership,Development Planning Partnership
+1174,Spirit FM,Spirit FM
+1175,Cardea Solutions,Cardea Solutions
+1176,Shell Foundation,Shell Foundation
+1177,Gallions Reach Shopping Park,Gallions Reach Shopping Park
+1178,Dormer Tools,Dormer Tools
+1179,TAM Asset Management,TAM Asset Management
+1180,Braintree District Museum & Study Centre Trust,Braintree District Museum & Study Centre Trust
+1181,Chemring Countermeasures,Chemring Countermeasures
+1182,St Catherine's Hospice,St Catherine's Hospice
+1183,Granta Publications,Granta Publications
+1184,Ovalbrick,Ovalbrick
+1185,Cedar Communications,Cedar Communications
+1186,The Grand Union,Grand Union
+1187,Gensec International Asset Management,Gensec International Asset Management
+1188,Frontier Consulting,Frontier Consulting
+1189,Augean Treatment,Augean Treatment
+1190,The Property Supermarket Hartlepool,Property Supermarket Hartlepool
+1191,Heart Of London Business Alliance,Heart Of London Business Alliance
+1192,Gourmet Burger Kitchen,Gourmet Burger Kitchen
+1193,Greenock Morton Football Club,Greenock Morton Football Club
+1194,CAPITB Trust,CAPITB Trust
+1195,Market Harborough Building Society,Market Harborough Building Society
+1196,Tipton & Coseley Building Society,Tipton & Coseley Building Society
+1197,Hermes Private Equity Partners I,Hermes Private Equity Partners I
+1198,Brunel's ss Great Britain,Brunel's ss Great Britain
+1199,London Philharmonic Orchestra,London Philharmonic Orchestra
+1200,Actis India Fund 2,Actis India Fund 2
+1201,Kohler Daryl,Kohler Daryl
+1202,Indigo Telecom,Indigo Telecom
+1203,Caliburn Capital Partners,Caliburn Capital Partners
+1204,Rubinstein Phillips,Rubinstein Phillips
+1205,Monyana Engineering Services,Monyana Engineering Services
+1206,Citizens Online,Citizens Online
+1207,Periodical Publishers Association,Periodical Publishers Association
+1208,Advantage Capital Partners II,Advantage Capital Partners II
+1209,Vantis Redhead French,Vantis Redhead French
+1210,Canterbury Christ Church University,Canterbury Christ Church University
+1211,Milford Haven Port Authority,Milford Haven Port Authority
+1212,Babraham Institute,Babraham Institute
+1213,Actis Africa Fund II,Actis Africa Fund II
+1214,Marylebone Asset Management,Marylebone Asset Management
+1215,Kettering Town Football Club,Kettering Town Football Club
+1216,Totally Travel,Totally Travel
+1217,Apollo Group,Apollo Group
+1218,The Locum Partnership,Locum Partnership
+1219,Enterprise Property Solutions,Enterprise Property Solutions
+1220,The Poulter Group,Poulter Group
+1221,Knight Frank in association with Markham Vaughan Gillingham,Knight Frank in association with Markham Vaughan Gillingham
+1222,Technopolis Group,Technopolis Group
+1223,Cambridge Technology Group,Cambridge Technology Group
+1224,The Draycott Hotel,Draycott Hotel
+1225,Oise,Oise
+1226,"Ois, The",Oise
+1227,"Oise, The",Oise
+1228,"Oise, corp.",Oise
+1229,Lennox Industries,Lennox Industries
+1230,Park BCP,Park BCP
+1231,Lunson Mitchenall,Lunson Mitchenall
+1232,Global Media Distribution,Global Media Distribution
+1233,Verisk Maplecroft,Verisk Maplecroft
+1234,BT Advise for Communications,BT Advise for Communications
+1235,Athene Communications,Athene Communications
+1236,Jrc International,Jrc International
+1237,BMA Communications,BMA Communications
+1238,Arena Wealth,Arena Wealth
+1239,X-TANT,X-TANT
+1240,Goldman Sachs International Bank,Goldman Sachs International Bank
+1241,Royal Free Hospital,Royal Free Hospital
+1242,University Of Wales College Of Medicine,University Of Wales College Of Medicine
+1243,Computerworld Business Solutions,Computerworld Business Solutions
+1244,Amnesty International,Amnesty International
+1245,HSW Print,HSW Print
+1246,"Citibank N.A., London Branch","Citibank N.A., London Branch"
+1247,Pure Vantage,Pure Vantage
+1248,Tilney Smith & Williamson,Tilney Smith & Williamson
+1249,ICON Films,ICON Films
+1250,23 Howland Street,23 Howland Street
+1251,P3 Medical,P3 Medical
+1252,Fund4Games,Fund4Games
+1253,Pilling & Co Stockbrokers,Pilling & Co Stockbrokers
+1254,The Institute and Faculty of Actuaries,Institute and Faculty of Actuaries
+1255,ChildLine,ChildLine
+1256,Spargo Productions,Spargo Productions
+1257,CAB International,CAB International
+1258,Oxford Pharmaceuticals,Oxford Pharmaceuticals
+1259,UCL School Of Pharmacy,UCL School Of Pharmacy
+1260,The Advantage Enterprise & Innovation Fund,Advantage Enterprise & Innovation Fund
+1261,Vertis PRS,Vertis PRS
+1262,Investment Management Association,Investment Management Association
+1263,Sherrards Solicitors,Sherrards Solicitors
+1264,William T. Eden,William T. Eden
+1265,Rugby Football Union,Rugby Football Union
+1266,Finnex Holdings,Finnex Holdings
+1267,Just for Kids Law,Just for Kids Law
+1268,Lothian Investment Fund for Enterprise,Lothian Investment Fund for Enterprise
+1269,Cheltenham & Gloucester Chase Hotel,Cheltenham & Gloucester Chase Hotel
+1270,Redrow Regeneration,Redrow Regeneration
+1271,Daintee,Daintee
+1272,Advantech-Innocore,Advantech-Innocore
+1273,Pendragon Capital Management,Pendragon Capital Management
+1274,Rodo,Rodo
+1275,Eventia,Eventia
+1276,Michaelides and Bednash,Michaelides and Bednash
+1277,Golley Slater Digital,Golley Slater Digital
+1278,Touchstone Learning & Skills,Touchstone Learning & Skills
+1279,Thatcham,Thatcham
+1280,Chubb (CR) Holdings,Chubb (CR) Holdings
+1281,St John闁炽儲鐛 College Cambridge,St John闁炽儲鐛 College Cambridge
+1282,Boxmill Developments,Boxmill Developments
+1283,Primehaven,Primehaven
+1284,Actis China Fund II,Actis China Fund II
+1285,City Of London College,City Of London College
+1286,Mop Acquisitions,Mop Acquisitions
+1287,Stockport Grammar School,Stockport Grammar School
+1288,Open University Business School,Open University Business School
+1289,Chaigeley Educational Foundation,Chaigeley Educational Foundation
+1290,Abbeydale Home Care,Abbeydale Home Care
+1291,State Street Investment Manager Solutions Europe,State Street Investment Manager Solutions Europe
+1292,St Peter's College,St Peter's College
+1293,Cardinal Health Finance,Cardinal Health Finance
+1294,Savills Investment Management,Savills Investment Management
+1295,HgCapital 5,HgCapital 5
+1296,"St Catherine闁炽儲鐛 College, Oxford","St Catherine闁炽儲鐛 College, Oxford"
+1297,UTC Actuation Systems,UTC Actuation Systems
+1298,Columbia Threadneedle Investments,Columbia Threadneedle Investments
+1299,"European Business School, London","European Business School, London"
+1300,Galbraith's,Galbraith's
+1301,T.p.r.,T.p.r.
+1302,Fox Advertising,Fox Advertising
+1303,Bridge McFarland,Bridge McFarland
+1304,"Peterhouse, University Of Cambridge","Peterhouse, University Of Cambridge"
+1305,James Hay Consultancy,James Hay Consultancy
+1306,Phoenix Equity Partners 2006 Fund,Phoenix Equity Partners 2006 Fund
+1307,Environments For Learning,Environments For Learning
+1308,The Croydon Park Hotel,Croydon Park Hotel
+1309,Gillespie Macandrew,Gillespie Macandrew
+1310,Towergate Patrick,Towergate Patrick
+1311,SMC Alsop Architects,SMC Alsop Architects
+1312,St Catharine闁炽儲鐛 College Cambridge,St Catharine闁炽儲鐛 College Cambridge
+1313,College Of Radiographers,College Of Radiographers
+1314,Disasters Emergency Committee,Disasters Emergency Committee
+1315,Chartered Institute Of Purchasing And Supply - United Kingdom,Chartered Institute Of Purchasing And Supply - United Kingdom
+1316,St Godric's College London,St Godric's College London
+1317,Institute of Chartered Secretaries and Administrators,Institute of Chartered Secretaries and Administrators
+1318,Action For Children,Action For Children
+1319,Facility For Living And Assessment Together,Facility For Living And Assessment Together
+1320,British Red Cross Society,British Red Cross Society
+1321,Alcester Capricorn,Alcester Capricorn
+1322,Royal Agricultural College,Royal Agricultural College
+1323,Kingston Business School,Kingston Business School
+1324,Cameron Mackintosh,Cameron Mackintosh
+1325,University Of Strathclyde Viz Royal College Of Science & Technology,University Of Strathclyde Viz Royal College Of Science & Technology
+1326,Bodycote Warringtonfire,Bodycote Warringtonfire
+1327,Lancaster University,Lancaster University
+1328,SD Voice & Video,SD Voice & Video
+1329,L&k Group,L&k Group
+1330,Arklow Engineering,Arklow Engineering
+1331,Jcb Transmissions,Jcb Transmissions
+1332,Building Performance Group,Building Performance Group
+1333,"The King's School, Worcester","King's School, Worcester"
+1334,IQ Capital Fund,IQ Capital Fund
+1335,Broadcasters Audience Research Board,Broadcasters Audience Research Board
+1336,Texon Overseas,Texon Overseas
+1337,Royal Society For The Protection Of Birds,Royal Society For The Protection Of Birds
+1338,Holland Park School,Holland Park School
+1339,"Lady Margaret Hall, Oxford University","Lady Margaret Hall, Oxford University"
+1340,Leeds Girls' High School,Leeds Girls' High School
+1341,St Anne闁炽儲鐛 College Oxford,St Anne闁炽儲鐛 College Oxford
+1342,Nottingham High School,Nottingham High School
+1343,Institute Of Management Services,Institute Of Management Services
+1344,Hurst Pierpoint College,Hurst Pierpoint College
+1345,Angus Dairies,Angus Dairies
+1346,Stellar Financial Services,Stellar Financial Services
+1347,Bradford & Bingley Investments,Bradford & Bingley Investments
+1348,Sheffield City Trust,Sheffield City Trust
+1349,Nova Chemicals Gb,Nova Chemicals Gb
+1350,Geronimo Communications Leeds,Geronimo Communications Leeds
+1351,SEP III,SEP II
+1352,Olga TV,Olga TV
+1353,Yarlington Housing Group,Yarlington Housing Group
+1354,Holiday Inn Birmingham City,Holiday Inn Birmingham City
+1355,Ariel Re Property & Casualty,Ariel Re Property & Casualty
+1356,Duncan Lawrie,Duncan Lawrie
+1357,Royal National Institute of Blind People,Royal National Institute of Blind People
+1358,Retail Motor Industry Federation,Retail Motor Industry Federation
+1359,Monksmead Partnership,Monksmead Partnership
+1360,The Close Investment 1994 Fund,Close Investment 1994 Fund
+1361,"Royal Horticultural Society, The",Royal Horticultural Society
+1362,Seven Lincs,Seven Lincs
+1363,Marine and General Mutual Life Assurance Society,Marine and General Mutual Life Assurance Society
+1364,Sercel England,Sercel England
+1365,The Congregation Of The Daughters Of The Cross Of Liege,Congregation Of The Daughters Of The Cross Of Liege
+1366,Ninah Consulting,Ninah Consulting
+1367,Three Rivers Golf & Country Club,Three Rivers Golf & Country Club
+1368,Chartwell Carbon Technologies,Chartwell Carbon Technologies
+1369,Natwest (135b) Investments,Natwest (135b) Investments
+1370,Esh Border Construction,Esh Border Construction
+1371,Esh Border Construction ltd.,Esh Border Construction
+1372,Esh Border Construction Limited Partnership,Esh Border Construction
+1373,Tristel Technologies,Tristel Technologies
+1374,Institution of Engineering and Technology,Institution of Engineering and Technology
+1375,Trimmers Arms Live Lounge,Trimmers Arms Live Lounge
+1376,Bestport LP Fund,Bestport LP Fund
+1377,Clipper Wonsild Tankers,Clipper Wonsild Tankers
+1378,Glyndebourne Arts Trust,Glyndebourne Arts Trust
+1379,Spinnaker Capital Group,Spinnaker Capital Group
+1380,Randall and Payne,Randall and Payne
+1381,TP Newco,TP Newco
+1382,IQ Public Sector,IQ Public Sector
+1383,Insight Retail Consulting,Insight Retail Consulting
+1384,Work Inc. Group,Work Inc. Group
+1385,RBA Plastics,RBA Plastics
+1386,Wylie & Bisset,Wylie & Bisset
+1387,Newable Private Investing,Newable Private Investing
+1388,Alpha Newspapers Group,Alpha Newspapers Group
+1389,W A Blyth,W A Blyth
+1390,PIF Medical Supplies,PIF Medical Supplies
+1391,Arista Laboratories Europe,Arista Laboratories Europe
+1392,Impetus - The Private Equity Foundation,Impetus - The Private Equity Foundation
+1393,Capital Hill Partnership,Capital Hill Partnership
+1394,Thames Gateway Forum,Thames Gateway Forum
+1395,The Savitri Waney Charitable Trust,Savitri Waney Charitable Trust
+1396,IP Venture Fund,IP Venture Fund
+1397,Santander UK Investments,Santander UK Investments
+1398,Society Of Chemical Industry,Society Of Chemical Industry
+1399,Luke Hughes,Luke Hughes
+1400,The Scottish Mutual Assurance Society,Scottish Mutual Assurance Society
+1401,Association Of International Accountants,Association Of International Accountants
+1402,Henderson UK Property PAIF,Henderson UK Property PAIF
+1403,Threadneedle Investment Funds ICVC - UK Fund,Threadneedle Investment Funds ICVC - UK Fund
+1404,CF Asset Value Investors Global Fund,CF Asset Value Investors Global Fund
+1405,Invesco Perp Sml Co Mkts Invst Series ICVC - Invesco Perpetual Global Emerging Markets,Invesco Perp Sml Co Mkts Invst Series ICVC - Invesco Perpetual Global Emerging Markets
+1406,Invesco Perpetual UK 2 Investment Series - UK Focus Fund,Invesco Perpetual UK 2 Investment Series - UK Focus Fund
+1407,BCP II,BCP II
+1408,Terrence Higgins Trust,Terrence Higgins Trust
+1409,White Young Green Planning,White Young Green Planning
+1410,Careers N Kids,Careers N Kids
+1411,Adda Hotels,Adda Hotels
+1412,Rowan Asset Management,Rowan Asset Management
+1413,Shackleton Secondaries LP I,Shackleton Secondaries LP I
+1414,J.P. Morgan Chase International Holdings,J.P. Morgan Chase International Holdings
+1415,Stonehage Investment Partners,Stonehage Investment Partners
+1416,The Institute of Financial Planning,Institute of Financial Planning
+1417,Citigate Public Affairs,Citigate Public Affairs
+1418,Leisure World Group,Leisure World Group
+1419,Coxlease School,Coxlease School
+1420,HIE Skye and Wester Ross,HIE Skye and Wester Ross
+1421,HIE Inverness and East Highland,HIE Inverness and East Highland
+1422,Ramage United Freight Distribution,Ramage United Freight Distribution
+1423,Arts Council England,Arts Council England
+1424,Bridgeman Art Library,Bridgeman Art Library
+1425,West Park Hotel,West Park Hotel
+1426,First Data Europe,First Data Europe
+1427,Quill International Group,Quill International Group
+1428,United Friendly Life Assurance,United Friendly Life Assurance
+1429,RSM Northern Ireland,RSM Northern Ireland
+1430,Newcastle Protection & Indemnity Association,Newcastle Protection & Indemnity Association
+1431,Sgema CYF,Sgema CYF
+1432,Pulse Fitness,Pulse Fitness
+1433,Avaya Capital Ireland,Avaya Capital Ireland
+1434,Westminster Education Consultants,Westminster Education Consultants
+1435,King Worldwide Investor Relations,King Worldwide Investor Relations
+1436,MFM UK Primary Opportunities Fund,MFM UK Primary Opportunities Fund
+1437,RJD Private Equity Fund II,RJD Private Equity Fund II
+1438,SITA Advanced Travel Solutions,SITA Advanced Travel Solutions
+1439,Planned Storage Systems,Planned Storage Systems
+1440,DBK Connect,DBK Connect
+1441,Piper Private Equity IV,Piper Private Equity IV
+1442,Suckling Airways,Suckling Airways
+1443,Russo-British Chamber of Commerce,Russo-British Chamber of Commerce
+1444,SGAM Private Value Fund,SGAM Private Value Fund
+1445,Blue Asset Management,Blue Asset Management
+1446,WM Enterprise,WM Enterprise
+1447,Tribal CTAD,Tribal CTAD
+1448,The Work Foundation,Work Foundation
+1449,Brass Agency,Brass Agency
+1450,Fleetwood Windows,Fleetwood Windows
+1451,PHS Washrooms,PHS Washrooms
+1452,Burkitt DDB,Burkitt DDB
+1453,Elizabeth Finn Care,Elizabeth Finn Care
+1454,United Wineries International,United Wineries International
+1455,Octavia Housing,Octavia Housing
+1456,St. Matthew Housing,St. Matthew Housing
+1457,University of Gloucestershire,University of Gloucestershire
+1458,Polytec Holden,Polytec Holden
+1459,Genisys Group,Genisys Group
+1460,The Tonstate Group,Tonstate Group
+1461,Scrivens Opticians & Hearing Care,Scrivens Opticians & Hearing Care
+1462,Lion Capital Fund II,Lion Capital Fund I
+1463,Port of London Authority,Port of London Authority
+1464,The Palmer Noble Fund,Palmer Noble Fund
+1465,The Palmer Active Value Fund II,Palmer Active Value Fund II
+1466,Locaboat Developpement,Locaboat Developpement
+1467,Landmark Valuation Services,Landmark Valuation Services
+1468,Airport Property Partnership,Airport Property Partnership
+1469,RCC HR,RCC HR
+1470,Highflyer Bloodstock Agency,Highflyer Bloodstock Agency
+1471,Company-i,Company-i
+1472,Taylors Solicitors,Taylors Solicitors
+1473,The Design Museum,Design Museum
+1474,Micromark C&CD,Micromark C&CD
+1475,Newcastle Estate Partnership,Newcastle Estate Partnership
+1476,Haymarket Network,Haymarket Network
+1477,Bookmarque,Bookmarque
+1478,Thonger Safety Associates,Thonger Safety Associates
+1479,Hornagold & Hills,Hornagold & Hills
+1480,Rush & Tompkins Group,Rush & Tompkins Group
+1481,Rosehaugh,Rosehaugh
+1482,The Cumberland,Cumberland
+1483,The Museums Libraries & Archives Council,Museums Libraries & Archives Council
+1484,United Learning Trust,United Learning Trust
+1485,DB Symmetry,DB Symmetry
+1486,Marshall Scunthorpe BMW,Marshall Scunthorpe BMW
+1487,National Schizophrenia Fellowship,National Schizophrenia Fellowship
+1488,Erinaceous Auctions,Erinaceous Auctions
+1489,W.D. Meats,W.D. Meats
+1490,Castle House Hotel,Castle House Hotel
+1491,Eventwise,Eventwise
+1492,The Porch House,Porch House
+1493,Equiton Industrial Partnership,Equiton Industrial Partnership
+1494,LPA Excil Electronics,LPA Excil Electronics
+1495,London News Network,London News Network
+1496,The Bbc Children In Need Appeal,Bbc Children In Need Appeal
+1497,Culina,Culina
+1498,The Health Foundation,Health Foundation
+1499,The Chartered Institute Of Personnel & Development,Chartered Institute Of Personnel & Development
+1500,Millfield,Millfield
+1501,Alzheimer's Society,Alzheimer's Society
+1502,National Centre For Social Research,National Centre For Social Research
+1503,The Disabilities Trust,Disabilities Trust
+1504,The Royal Commonwealth Society For The Blind,Royal Commonwealth Society For The Blind
+1505,British Wool Marketing Board,British Wool Marketing Board
+1506,The Wales Council For Voluntary Action,Wales Council For Voluntary Action
+1507,Phd Compass,Phd Compass
+1508,Fjord Seafood Scotland,Fjord Seafood Scotland
+1509,Pera International,Pera International
+1510,JTL,JTL
+1511,James L Archibald & Sons,James L Archibald & Sons
+1512,Vogue House Furnishers,Vogue House Furnishers
+1513,JCB Broadcrown,JCB Broadcrown
+1514,The Brendoncare Foundation,Brendoncare Foundation
+1515,IPC Information Systems,IPC Information Systems
+1516,The Medical And Dental Defence Union Of Scotland,Medical And Dental Defence Union Of Scotland
+1517,Workers Educational Association,Workers Educational Association
+1518,CH2M Hill United Kingdom,CH2M Hill United Kingdom
+1519,Institute of Financial Services,Institute of Financial Services
+1520,Capability Scotland,Capability Scotland
+1521,Horticulture Research International,Horticulture Research International
+1522,The Alec Reed Academy,Alec Reed Academy
+1523,Remarkable Pendragon,Remarkable Pendragon
+1524,City Cruise York,City Cruise York
+1525,St Anne's Community Services,St Anne's Community Services
+1526,Specialist Schools & Academies Trust,Specialist Schools & Academies Trust
+1527,The ERDC Group,ERDC Group
+1528,The London Diocesan Fund,London Diocesan Fund
+1529,London School Of Hygiene And Tropical Medicine,London School Of Hygiene And Tropical Medicine
+1530,Dorrington Investment P L C,Dorrington Investment P L C
+1531,Hospital Plan Insurance Services,Hospital Plan Insurance Services
+1532,"Girton College, Cambridge","Girton College, Cambridge"
+1533,Metis Asset Management,Metis Asset Management
+1534,Mansfield College,Mansfield College
+1535,United Colleges Group,United Colleges Group
+1536,Albemarle & Bond,Albemarle & Bond
+1537,Stanhill Capital Partners,Stanhill Capital Partners
+1538,EQ Investors,EQ Investors
+1539,Edwards Hardwick & Partners,Edwards Hardwick & Partners
+1540,Ness Motors,Ness Motors
+1541,Lloyd & Partners,Lloyd & Partners
+1542,Balfour Beatty Power Networks,Balfour Beatty Power Networks
+1543,Andrew Farr Associates,Andrew Farr Associates
+1544,Product Plus International,Product Plus International
+1545,Ashfield Homes,Ashfield Homes
+1546,Sea Talk Systems Limietd,Sea Talk Systems Limietd
+1547,International Hydropower Association,International Hydropower Association
+1548,Fiction Factory,Fiction Factory
+1549,Ashridge Business School,Ashridge Business School
+1550,Halton Housing Trust,Halton Housing Trust
+1551,Grainger & Worrall,Grainger & Worrall
+1552,Roehampton University,Roehampton University
+1553,Society For Endocrinology,Society For Endocrinology
+1554,The SG Group,SG Group
+1555,Queen Margaret University College,Queen Margaret University College
+1556,City Capital Partners,City Capital Partners
+1557,Epworth Investment Management,Epworth Investment Management
+1558,Morgan Stanley Gamma Investments,Morgan Stanley Gamma Investments
+1559,Southampton Solent University,Southampton Solent University
+1560,London School Of Accountancy,London School Of Accountancy
+1561,Newbattle Abbey College,Newbattle Abbey College
+1562,Institutional Money Market Funds Association,Institutional Money Market Funds Association
+1563,Centurion Holiday Group,Centurion Holiday Group
+1564,Royal College Of Art,Royal College Of Art
+1565,"Jesus College, Oxford University","Jesus College, Oxford University"
+1566,UCL Eastman Dental Institute,UCL Eastman Dental Institute
+1567,Tower Gate Developments,Tower Gate Developments
+1568,Bedales School in Petersfield Hampshire,Bedales School in Petersfield Hampshire
+1569,"Emmanuel College, Cambridge University","Emmanuel College, Cambridge University"
+1570,Xscape Milton Keynes,Xscape Milton Keynes
+1571,Somerville College,Somerville College
+1572,West London College,West London College
+1573,CLIC Sargent,CLIC Sargent
+1574,Institute of Islamic Banking and Insurance,Institute of Islamic Banking and Insurance
+1575,Providence Row,Providence Row
+1576,GameGrid,GameGrid
+1577,Girlings Solicitors,Girlings Solicitors
+1578,Prestoplan,Prestoplan
+1579,Exeter College - Oxford University,Exeter College - Oxford University
+1580,"Eltham College, London","Eltham College, London"
+1581,British Council,British Council
+1582,Nuneaton & Bedworth Leisure Trust,Nuneaton & Bedworth Leisure Trust
+1583,"School of Oriental and African Studies, University of London","School of Oriental and African Studies, University of London"
+1584,Abilitynet,Abilitynet
+1585,Leith闁炽儲鐛,Leith闁炽儲鐛
+1586,"Goldsmiths, University of London","Goldsmiths, University of London"
+1587,Newlon Housing Trust,Newlon Housing Trust
+1588,Bishop Vesey's Grammar School in Sutton Coldfield,Bishop Vesey's Grammar School in Sutton Coldfield
+1589,Finance South West Growth Fund,Finance South West Growth Fund
+1590,London Oratory School,London Oratory School
+1591,Endeavour Trust,Endeavour Trust
+1592,F&C Alternative Investments,F&C Alternative Investments
+1593,Alan Steel Asset Management,Alan Steel Asset Management
+1594,Questex-McLean Events,Questex-McLean Events
+1595,Wateraid,Wateraid
+1596,Pillar Funding Series 2002-1,Pillar Funding Series 2002-1
+1597,Sherwood Castle Funding Series 2003-2,Sherwood Castle Funding Series 2003-2
+1598,National Film And Television School,National Film And Television School
+1599,Hi-Tech Toolings,Hi-Tech Toolings
+1600,London And Regional Debt Securitisation No.1,London And Regional Debt Securitisation No.1
+1601,Box Hill Life Finance,Box Hill Life Finance
+1602,API Converted Products,API Converted Products
+1603,Black & Decker Finance,Black & Decker Finance
+1604,Bakkavor Invest,Bakkavor Invest
+1605,Lindsey Morden Acquisitions,Lindsey Morden Acquisitions
+1606,Everest Healthcare,Everest Healthcare
+1607,Pan European Restaurants,Pan European Restaurants
+1608,Ede & Ravenscroft,Ede & Ravenscroft
+1609,Sheffield Homes,Sheffield Homes
+1610,Millennium Estates,Millennium Estates
+1611,Wirral Partnership Homes,Wirral Partnership Homes
+1612,Children's Hospice Association Scotland,Children's Hospice Association Scotland
+1613,M2M Management Group,M2M Management Group
+1614,Scotts Treasury EEIG,Scotts Treasury EEIG
+1615,The Angel Foundation,Angel Foundation
+1616,London Internet Exchange,London Internet Exchange
+1617,Royal Geographical Society,Royal Geographical Society
+1618,Securities & Investment Institute,Securities & Investment Institute
+1619,Stockland Uk Development,Stockland Uk Development
+1620,Royal College of Nursing,Royal College of Nursing
+1621,Prodrill Energy Resource Solutions,Prodrill Energy Resource Solutions
+1622,International Business Wales,International Business Wales
+1623,LF Majedie Asset Management Investment Fund Company - LF Majedie UK Equity Fund,LF Majedie Asset Management Investment Fund Company - LF Majedie UK Equity Fund
+1624,National Portrait Gallery,National Portrait Gallery
+1625,International Primary Market Association,International Primary Market Association
+1626,Haunch of Venison,Haunch of Venison
+1627,East End Homes,East End Homes
+1628,Midland Sheetmetal,Midland Sheetmetal
+1629,Turning Point,Turning Point
+1630,"Doughty Hanson & Co., Real Estate","Doughty Hanson & Co., Real Estate"
+1631,Abbey Business Centres,Abbey Business Centres
+1632,The Cystic Fibrosis Trust,Cystic Fibrosis Trust
+1633,Kier Southern,Kier Southern
+1634,Kier South East,Kier South East
+1635,Adolescent and Children's Trust,Adolescent and Children's Trust
+1636,i-to-i,i-to-i
+1637,Institution Of Structural Engineers,Institution Of Structural Engineers
+1638,HG Management Services,HG Management Services
+1639,Finance And Leasing Association,Finance And Leasing Association
+1640,Unity City Academy,Unity City Academy
+1641,The Clinkard Group,Clinkard Group
+1642,Patron Capital L.P. III,Patron Capital L.P. II
+1643,Prince Edward Theatre,Prince Edward Theatre
+1644,Dynamic Ems,Dynamic Ems
+1645,Medical Research Network,Medical Research Network
+1646,The Thomas Deacon Academy,Thomas Deacon Academy
+1647,Waterloo Housing Association,Waterloo Housing Association
+1648,BBGR,BBGR
+1649,British Trust for Ornithology,British Trust for Ornithology
+1650,Park Central Hotel,Park Central Hotel
+1651,Amadeus III,Amadeus III
+1652,SVS Brown Shipley Investment Company - SVS Brown Shipley Sterling Bond Fund,SVS Brown Shipley Investment Company - SVS Brown Shipley Sterling Bond Fund
+1653,The Portland Trust,Portland Trust
+1654,Kaupthing Capital Partners II,Kaupthing Capital Partners II
+1655,Emile Woolf International,Emile Woolf International
+1656,KELVINGROUP,KELVINGROUP
+1657,Sandison Easson & Gordon,Sandison Easson & Gordon
+1658,PerkinElmer Life Sciences International Holdings,PerkinElmer Life Sciences International Holdings
+1659,The Council For Industry and Higher Education,Council For Industry and Higher Education
+1660,Hexham Community Partnership,Hexham Community Partnership
+1661,British Board of Agr閼煎崻ent,British Board of Agr閼煎崻ent
+1662,Demon Music Group,Demon Music Group
+1663,Belfast Container Terminal,Belfast Container Terminal
+1664,M&G Global Macro Bond Fund,M&G Global Macro Bond Fund
+1665,McGregor Boyall Associates,McGregor Boyall Associates
+1666,How Stean Gorge,How Stean Gorge
+1667,Altus Investment Management,Altus Investment Management
+1668,Europa Emerging Europe Fund,Europa Emerging Europe Fund
+1669,The RPA Group,RPA Group
+1670,With Reflex Group,With Reflex Group
+1671,ST Fleet,ST Fleet
+1672,Mithras Capital Fund,Mithras Capital Fund
+1673,Protempus,Protempus
+1674,Newcastle Greyhound Stadium,Newcastle Greyhound Stadium
+1675,Bromsgrove Schools,Bromsgrove Schools
+1676,London Metropolitan Network,London Metropolitan Network
+1677,Sunderland Greyhound Stadium,Sunderland Greyhound Stadium
+1678,Badentoy Tubular Services,Badentoy Tubular Services
+1679,Captiva Capital Management,Captiva Capital Management
+1680,Airport Strategy & Marketing,Airport Strategy & Marketing
+1681,Concession Planning International,Concession Planning International
+1682,World Media rights,World Media rights
+1683,Corsham Primary School,Corsham Primary School
+1684,Park Royal Partnership,Park Royal Partnership
+1685,FAST IiS,FAST IiS
+1686,Kendric Ash,Kendric Ash
+1687,Stanton Williams Architects,Stanton Williams Architects
+1688,Buttonwood Capital Partners,Buttonwood Capital Partners
+1689,FlixTAC,FlixTAC
+1690,Action for Blind People,Action for Blind People
+1691,Graphite Capital Partners VII,Graphite Capital Partners VI
+1692,Atlantic Capital Management Partners,Atlantic Capital Management Partners
+1693,Caradog Hotels,Caradog Hotels
+1694,Pacific Quay Developments,Pacific Quay Developments
+1695,Ealing Homes,Ealing Homes
+1696,Plant Asset Management,Plant Asset Management
+1697,Procure Plus,Procure Plus
+1698,Twin Valley Homes,Twin Valley Homes
+1699,Oasis@Sanctuary,Oasis@Sanctuary
+1700,Caspian Energy Group,Caspian Energy Group
+1701,Albert Goodman CBH,Albert Goodman CBH
+1702,Charing Cross Hospital,Charing Cross Hospital
+1703,BEST WESTERN Grand Hotel,BEST WESTERN Grand Hotel
+1704,Garden Organic,Garden Organic
+1705,Druckers Vienna Patisserie,Druckers Vienna Patisserie
+1706,The Carpet Gallery,Carpet Gallery
+1707,Campaign for Real Ale,Campaign for Real Ale
+1708,Gainsborough Business Centres,Gainsborough Business Centres
+1709,Reid Architecture,Reid Architecture
+1710,EnViva Paediatric Care,EnViva Paediatric Care
+1711,Calibre International,Calibre International
+1712,Corpore-TTN,Corpore-TTN
+1713,Homes For Haringey,Homes For Haringey
+1714,Waddington Galleries,Waddington Galleries
+1715,Way Global Cautious Portfolio Fund,Way Global Cautious Portfolio Fund
+1716,Warwickshire College,Warwickshire College
+1717,Longbridge Finance & Accountancy,Longbridge Finance & Accountancy
+1718,The Laird Foundation,Laird Foundation
+1719,Weymouth Football Club,Weymouth Football Club
+1720,Human Recognition Systems,Human Recognition Systems
+1721,MHA Broomfield Alexander,MHA Broomfield Alexander
+1722,ALS Environmental,ALS Environmental
+1723,BioRegional Development Group,BioRegional Development Group
+1724,Robson Asset Management,Robson Asset Management
+1725,Mistral Energy 2,Mistral Energy 2
+1726,CBHA,CBHA
+1727,SingTel Europe,SingTel Europe
+1728,The Gateway To Wales Hotel,Gateway To Wales Hotel
+1729,Purcell,Purcell
+1730,Butcher & Barlow,Butcher & Barlow
+1731,CST,CST
+1732,Elgin City Football Club,Elgin City Football Club
+1733,SA Law,SA Law
+1734,Morecrofts Solicitors,Morecrofts Solicitors
+1735,The UK Stem Cell Foundation,UK Stem Cell Foundation
+1736,Communications Management Association,Communications Management Association
+1737,Beatson Institute for Cancer Research,Beatson Institute for Cancer Research
+1738,The Financial Services Skills Council,Financial Services Skills Council
+1739,FIA Europe,FIA Europe
+1740,GHL Group,GHL Group
+1741,Stone Rowe Brewer,Stone Rowe Brewer
+1742,National Association of Estate Agents,National Association of Estate Agents
+1743,Sifam Meters,Sifam Meters
+1744,Oxenrig Eggs,Oxenrig Eggs
+1745,Signor Sassi,Signor Sassi
+1746,Jackson Stephen Corporate Finance,Jackson Stephen Corporate Finance
+1747,LifeArc,LifeArc
+1748,EPI/Marsden,EPI/Marsden
+1749,Nunthorpe Nurseries Group,Nunthorpe Nurseries Group
+1750,The Ramblers Association,Ramblers Association
+1751,Infinity Asset Management,Infinity Asset Management
+1752,Infinity Insurance Solutions,Infinity Insurance Solutions
+1753,M&L Ambulance Service,M&L Ambulance Service
+1754,FDS Pharma ASS,FDS Pharma ASS
+1755,Furness Green Partnership,Furness Green Partnership
+1756,The Alice Ottley School,Alice Ottley School
+1757,Nilfisk DTE,Nilfisk DTE
+1758,Liverpool School of Tropical Medicine,Liverpool School of Tropical Medicine
+1759,Weston Green School,Weston Green School
+1760,Viavi Solutions UK Limted,Viavi Solutions UK Limted
+1761,LF Morant Wright Japan Fund,LF Morant Wright Japan Fund
+1762,Pentland Ferries,Pentland Ferries
+1763,The David Lewis Centre,David Lewis Centre
+1764,Equistone Partners Europe Fund III,Equistone Partners Europe Fund II
+1765,Leicester Transport Heritage Trust,Leicester Transport Heritage Trust
+1766,Howlett Clarke,Howlett Clarke
+1767,Oxford Centre for Islamic Studies,Oxford Centre for Islamic Studies
+1768,Oxford Islamic Finance,Oxford Islamic Finance
+1769,Alburn,Alburn
+1770,CF Miton Worldwide Opportunities Fund,CF Miton Worldwide Opportunities Fund
+1771,The Pallinghurst Group,Pallinghurst Group
+1772,Fife Power,Fife Power
+1773,IQ ESM,IQ ESM
+1774,Lincoln & Lindsey Blind Society,Lincoln & Lindsey Blind Society
+1775,Weymouth & Portland National Sailing Academy,Weymouth & Portland National Sailing Academy
+1776,Innovation Software Distribution Group,Innovation Software Distribution Group
+1777,South West London College,South West London College
+1778,Radley College,Radley College
+1779,Sidney Sussex College Cambridge,Sidney Sussex College Cambridge
+1780,P.J. Hegarty & Sons,P.J. Hegarty & Sons
+1781,FOX FM,FOX FM
+1782,Royal College of Veterinary Surgeons,Royal College of Veterinary Surgeons
+1783,JSR Farming Group,JSR Farming Group
+1784,Asharq Al-Awsat,Asharq Al-Awsat
+1785,IPS Flow Systems,IPS Flow Systems
+1786,Central School of Speech and Drama,Central School of Speech and Drama
+1787,"Selwyn College, Cambridge","Selwyn College, Cambridge"
+1788,Wigan Warriors,Wigan Warriors
+1789,Armstrong Transaction Services,Armstrong Transaction Services
+1790,Churcher's College,Churcher's College
+1791,Sporting iD,Sporting iD
+1792,Oxford Business College,Oxford Business College
+1793,August Equity Partners II,August Equity Partners II
+1794,S.R.S. Business and Professional,S.R.S. Business and Professional
+1795,ESP Golden Bear Europe Fund,ESP Golden Bear Europe Fund
+1796,"Dulwich College, London","Dulwich College, London"
+1797,Hanover Fox International,Hanover Fox International
+1798,Chartered Institute of Arbitrators London,Chartered Institute of Arbitrators London
+1799,Bournemouth & Poole College,Bournemouth & Poole College
+1800,Reading College of Technology,Reading College of Technology
+1801,Liverpool Hope University,Liverpool Hope University
+1802,Courtauld Institute of Art,Courtauld Institute of Art
+1803,Equita Corporate Finance,Equita Corporate Finance
+1804,Palmers Solicitors,Palmers Solicitors
+1805,Ebbsfleet United Football Club,Ebbsfleet United Football Club
+1806,The Manchester College,Manchester College
+1807,London School of Public Relations,London School of Public Relations
+1808,Depaul Trust,Depaul Trust
+1809,Living Plus,Living Plus
+1810,Fisher Scientific UK Holding Company 1,Fisher Scientific UK Holding Company 1
+1811,Fisher Scientific UK Holding Company 2,Fisher Scientific UK Holding Company 1
+1812,Michelangelo Search,Michelangelo Search
+1813,Orange Group,Orange Group
+1814,BBC Media Action,BBC Media Action
+1815,Cantor Fitzgerald Europe,Cantor Fitzgerald Europe
+1816,Barclays Sharedealing,Barclays Sharedealing
+1817,Imprimatur Capital,Imprimatur Capital
+1818,Synova Capital Fund I,Synova Capital Fund I
+1819,Born Free Foundation,Born Free Foundation
+1820,Clifton Hall School,Clifton Hall School
+1821,Stuart Higgins Communications,Stuart Higgins Communications
+1822,Allnet Solutions,Allnet Solutions
+1823,Julius Investments,Julius Investments
+1824,IGM Group,IGM Group
+1825,Glasgow School Of Art,Glasgow School Of Art
+1826,Lenleys,Lenleys
+1827,Royal College of Psychiatrists,Royal College of Psychiatrists
+1828,August Equity Partners III,August Equity Partners II
+1829,Ritz Clubs,Ritz Clubs
+1830,BAA Business Support Centre,BAA Business Support Centre
+1831,Scottish Association For Marine Science,Scottish Association For Marine Science
+1832,Knossington Grange School,Knossington Grange School
+1833,Hansom Property Company Limite,Hansom Property Company Limite
+1834,Hansom Property Company Limited,Hansom Property
+1835,Devon and Somerset Law Society,Devon and Somerset Law Society
+1836,Rockliffe Hall,Rockliffe Hall
+1837,Simpson Wreford & Partners,Simpson Wreford & Partners
+1838,Sonoco Milnrow,Sonoco Milnrow
+1839,James Hay Partnership,James Hay Partnership
+1840,The Scottish Football Association,Scottish Football Association
+1841,Royal National Lifeboat Institution,Royal National Lifeboat Institution
+1842,Roomservice by CORT,Roomservice by CORT
+1843,The Institution of Civil Engineers,Institution of Civil Engineers
+1844,Royal Welsh College of Music & Drama,Royal Welsh College of Music & Drama
+1845,Wimbledon College,Wimbledon College
+1846,Senergy Floyds,Senergy Floyds
+1847,Marine Stewardship Council,Marine Stewardship Council
+1848,St Hugh's College,St Hugh's College
+1849,"National Heart and Lung Institute, Faculty of Medicine Imperial College","National Heart and Lung Institute, Faculty of Medicine Imperial College"
+1850,Gamlins Solicitors,Gamlins Solicitors
+1851,Great Ormond Street Hospital Childrens Charity,Great Ormond Street Hospital Childrens Charity
+1852,Bath News & Media,Bath News & Media
+1853,Ellesmere College,Ellesmere College
+1854,Crystal Windows and Conservatories,Crystal Windows and Conservatories
+1855,Kent Business School,Kent Business School
+1856,St Bede's College,St Bede's College
+1857,Dunlop Systems & Components,Dunlop Systems & Components
+1858,Teledu Apollo Cyfyngedig,Teledu Apollo Cyfyngedig
+1859,Bowmark Capital Partners IV,Bowmark Capital Partners IV
+1860,Guildford Business College,Guildford Business College
+1861,Sodexho Land Technology,Sodexho Land Technology
+1862,Huddersfield Town Football Club,Huddersfield Town Football Club
+1863,Princecroft Willis,Princecroft Willis
+1864,Leicestershire County Cricket Club,Leicestershire County Cricket Club
+1865,The National Society For Epilepsy,National Society For Epilepsy
+1866,Zoes Place Baby Hospices,Zoes Place Baby Hospices
+1867,University of Winchester,University of Winchester
+1868,Local Government Association,Local Government Association
+1869,Elite Group,Elite Group
+1870,Regents Business School London,Regents Business School London
+1871,Lyceum Capital Fund II,Lyceum Capital Fund II
+1872,Film Cooling Towers,Film Cooling Towers
+1873,Charterhouse Second Venture Fund,Charterhouse Second Venture Fund
+1874,Wickland Westcott and Partners,Wickland Westcott and Partners
+1875,South West Grid For Learning trust,South West Grid For Learning trust
+1876,Hazlems Fenton,Hazlems Fenton
+1877,Park Street Partners,Park Street Partners
+1878,Endless Fund II,Endless Fund II
+1879,Robert Sorby,Robert Sorby
+1880,Synovate Aztec PS&A,Synovate Aztec PS&A
+1881,International Aluminium Institute,International Aluminium Institute
+1882,Alfa Energy,Alfa Energy
+1883,RPS Gregory,RPS Gregory
+1884,Fletchers Solicitors,Fletchers Solicitors
+1885,North West Seed Fund,North West Seed Fund
+1886,CEDAR Talent Management,CEDAR Talent Management
+1887,PackCare,PackCare
+1888,The Great Capital Partnership,Great Capital Partnership
+1889,The Hospital of God at Greatham,Hospital of God at Greatham
+1890,DZ Bank AG London Branch,DZ Bank AG London Branch
+1891,British Airways Regional Cargo,British Airways Regional Cargo
+1892,Cardew Group,Cardew Group
+1893,SpiriTel Mobile,SpiriTel Mobile
+1894,Gresham House Forestry,Gresham House Forestry
+1895,Development Partners International,Development Partners International
+1896,Comfort Inn Kensington,Comfort Inn Kensington
+1897,LFC Insurance Group,LFC Insurance Group
+1898,Blue Reef Aquarium,Blue Reef Aquarium
+1899,Media House International,Media House International
+1900,Countryside Communications,Countryside Communications
+1901,Brewer Harding and Rowe Solicitors,Brewer Harding and Rowe Solicitors
+1902,Care South,Care South
+1903,Shackleton Secondaries II LP Fund,Shackleton Secondaries II LP Fund
+1904,Colourlord,Colourlord
+1905,Tower House Associates,Tower House Associates
+1906,The Mill Consultancy,Mill Consultancy
+1907,Winterbotham Smith Penley,Winterbotham Smith Penley
+1908,Pitch Entertainment Group,Pitch Entertainment Group
+1909,Looking Glass Experiential,Looking Glass Experiential
+1910,BEST WESTERN Crewe Arms Hotel,BEST WESTERN Crewe Arms Hotel
+1911,CAPCIS,CAPCIS
+1912,Somerville Underwriting Holdings,Somerville Underwriting Holdings
+1913,Bae Systems Pension Funds Investment Management,Bae Systems Pension Funds Investment Management
+1914,CMC Mobile Computing,CMC Mobile Computing
+1915,Green Energies,Green Energies
+1916,Trw Pensions Trust,Trw Pensions Trust
+1917,Ionian Investment Management,Ionian Investment Management
+1918,"Leeds, York & North Yorkshire Chamber of Commerce","Leeds, York & North Yorkshire Chamber of Commerce"
+1919,"Quadnetics Group, Employee Share Scheme","Quadnetics Group, Employee Share Scheme"
+1920,The Hargrave Foundation,Hargrave Foundation
+1921,Woodfines Solicitors,Woodfines Solicitors
+1922,WBW Solicitors,WBW Solicitors
+1923,Cox Motor Group,Cox Motor Group
+1924,Davies Mayers Barnett,Davies Mayers Barnett
+1925,May Gurney Environmental Services,May Gurney Environmental Services
+1926,World Challenge,World Challenge
+1927,Retirement Lease Housing Association,Retirement Lease Housing Association
+1928,Mercer & Hole,Mercer & Hole
+1929,Langersal,Langersal
+1930,The Coalfields Regeneration Trust,Coalfields Regeneration Trust
+1931,Derby Metals & Minerals,Derby Metals & Minerals
+1932,Bolton School,Bolton School
+1933,The Mines Advisory Group,Mines Advisory Group
+1934,The Blackburn Diocesan Board Of Education,Blackburn Diocesan Board Of Education
+1935,Chamonix Private Equity,Chamonix Private Equity
+1936,The British Cycling Federation,British Cycling Federation
+1937,Multi-lab Quartztec,Multi-lab Quartztec
+1938,Aldeburgh Music,Aldeburgh Music
+1939,Blundell's School,Blundell's School
+1940,Aberdeen Performing Arts,Aberdeen Performing Arts
+1941,TSG Enterprise Solutions,TSG Enterprise Solutions
+1942,Scottish Ballet,Scottish Ballet
+1943,The Congregational & General Charitable Trust,Congregational & General Charitable Trust
+1944,Oaklea Trust,Oaklea Trust
+1945,The Learning Trust,Learning Trust
+1946,Havens Christian Hospice,Havens Christian Hospice
+1947,Christian Aid,Christian Aid
+1948,Burford No. 2,Burford No. 2
+1949,Hogan Lovells Services,Hogan Lovells Services
+1950,"The Leprosy Mission England, Wales, The Channel Islands And The Isle Of Man","Leprosy Mission England, Wales, The Channel Islands And The Isle Of Man"
+1951,Institute Of Integrated Systemic Therapy,Institute Of Integrated Systemic Therapy
+1952,Drew Marine Signal and Safety,Drew Marine Signal and Safety
+1953,IPP Stainless Steel Fasteners,IPP Stainless Steel Fasteners
+1954,Magna Trust,Magna Trust
+1955,Tate Members,Tate Members
+1956,Shaftesbury Housing Association,Shaftesbury Housing Association
+1957,The Scotch Whisky Association,Scotch Whisky Association
+1958,Includem,Includem
+1959,Institute For Employment Studies,Institute For Employment Studies
+1960,Canterbury Oast Trust,Canterbury Oast Trust
+1961,Malaria Consortium,Malaria Consortium
+1962,St. Luke's Hospice Plymouth,St. Luke's Hospice Plymouth
+1963,Alternative Housing,Alternative Housing
+1964,Vocational Training Charitable Trust,Vocational Training Charitable Trust
+1965,North Country Leisure,North Country Leisure
+1966,Olds Motor Group,Olds Motor Group
+1967,National Energy Action,National Energy Action
+1968,Commonwealth War Graves Commission,Commonwealth War Graves Commission
+1969,Sporting Lodge Inns,Sporting Lodge Inns
+1970,Tameside Sports Trust,Tameside Sports Trust
+1971,The Bluecoat,Bluecoat
+1972,St Michael's Hospice Hastings And Rother,St Michael's Hospice Hastings And Rother
+1973,The Greater Manchester Museum Of Science & Industry Trust,Greater Manchester Museum Of Science & Industry Trust
+1974,Avocet Trust,Avocet Trust
+1975,Islamic Relief Worldwide,Islamic Relief Worldwide
+1976,"The King's School, Gloucester","King's School, Gloucester"
+1977,The Animal Health Trust,Animal Health Trust
+1978,Pipers Corner School,Pipers Corner School
+1979,Ambitious About Autism,Ambitious About Autism
+1980,Thistle Foundation,Thistle Foundation
+1981,Stockport Sports Trust,Stockport Sports Trust
+1982,Amica Care Trust,Amica Care Trust
+1983,Thinktank Trust,Thinktank Trust
+1984,North London Hospice,North London Hospice
+1985,The Camden Society,Camden Society
+1986,The Northern Rock Foundation,Northern Rock Foundation
+1987,Haberdashers' Aske's Federation Trust,Haberdashers' Aske's Federation Trust
+1988,The Electrical Safety Council,Electrical Safety Council
+1989,International Hiv/Aids Alliance,International Hiv/Aids Alliance
+1990,Lyndon SGB,Lyndon SGB
+1991,Keep Britain Tidy,Keep Britain Tidy
+1992,Monitor Company Europe,Monitor Company Europe
+1993,"Church Of Jesus Christ Of Latter-Day Saints, Great Britain","Church Of Jesus Christ Of Latter-Day Saints, Great Britain"
+1994,New Line Learning Academy,New Line Learning Academy
+1995,Birdlife International,Birdlife International
+1996,York St John University,York St John University
+1997,The Science Engineering Technology Mathematics Network,Science Engineering Technology Mathematics Network
+1998,The Horticultural Trades Association,Horticultural Trades Association
+1999,United Reformed Church Trust,United Reformed Church Trust
+2000,P&O Princess American Holdings,P&O Princess American Holdings
+2001,Precision Proco Group,Precision Proco Group
+2002,Youth Sport Trust,Youth Sport Trust
+2003,Zoological Society Of London,Zoological Society Of London
+2004,Landau Forte Charitable Trust,Landau Forte Charitable Trust
+2005,Halle Concerts Society,Halle Concerts Society
+2006,Gibson Integration,Gibson Integration
+2007,Swan Housing Association,Swan Housing Association
+2008,Turning Point Scotland,Turning Point Scotland
+2009,Aim Academies Trust,Aim Academies Trust
+2010,Town and Country Housing Group,Town and Country Housing Group
+2011,Milestones Trust,Milestones Trust
+2012,The University Of Chichester,University Of Chichester
+2013,National Museum Of Wales,National Museum Of Wales
+2014,Cornerstone Community Care,Cornerstone Community Care
+2015,Breakthrough Breast Cancer,Breakthrough Breast Cancer
+2016,The Scottish Arts Council,Scottish Arts Council
+2017,GCBW Catrine,GCBW Catrine
+2018,Practical Action,Practical Action
+2019,Addaction,Addaction
+2020,Scottish Association For Mental Health,Scottish Association For Mental Health
+2021,Motability,Motability
+2022,The Royal Collection Trust,Royal Collection Trust
+2023,The Universities and Colleges Admissions Service,Universities and Colleges Admissions Service
+2024,The Harley Medical Group,Harley Medical Group
+2025,Cora Foundation,Cora Foundation
+2026,Choice Support,Choice Support
+2027,The British Diabetic Association,British Diabetic Association
+2028,Magna Housing Association,Magna Housing Association
+2029,National Learning And Work Institute,National Learning And Work Institute
+2030,Career Connect,Career Connect
+2031,Donnelly Suzuki,Donnelly Suzuki
+2032,Stroke Association,Stroke Association
+2033,Olmec Advanced Materials,Olmec Advanced Materials
+2034,Together Trust,Together Trust
+2035,The Brandon Trust,Brandon Trust
+2036,Scottish Enterprise Glasgow,Scottish Enterprise Glasgow
+2037,First Wessex,First Wessex
+2038,The Wise Group,Wise Group
+2039,The Oxford Diocesan Board Of Finance,Oxford Diocesan Board Of Finance
+2040,Watch Tower Bible And Tract Society Of Britain,Watch Tower Bible And Tract Society Of Britain
+2041,Edinburgh Leisure,Edinburgh Leisure
+2042,Historic Royal Palaces,Historic Royal Palaces
+2043,British Pregnancy Advisory Service,British Pregnancy Advisory Service
+2044,Halcrow International Partnership,Halcrow International Partnership
+2045,Housing Hartlepool,Housing Hartlepool
+2046,Arconic UK Finance,Arconic UK Finance
+2047,"The Kings Head, Holt","Kings Head, Holt"
+2048,Warwick Independent Schools Foundation,Warwick Independent Schools Foundation
+2049,Ymca Training,Ymca Training
+2050,Scottish Enterprise Fife,Scottish Enterprise Fife
+2051,London Grid For Learning Trust,London Grid For Learning Trust
+2052,The Grammar School at Leeds,Grammar School at Leeds
+2053,SKM Colin Buchanan,SKM Colin Buchanan
+2054,Central & Cecil Housing Trust,Central & Cecil Housing Trust
+2055,Morrish Homes,Morrish Homes
+2056,Tor Homes,Tor Homes
+2057,Scottish Enterprise Tayside,Scottish Enterprise Tayside
+2058,Peacock & Binnington,Peacock & Binnington
+2059,Enham Trust,Enham Trust
+2060,Brain Injury Rehabilitation Trust,Brain Injury Rehabilitation Trust
+2061,Broadcasting Support Services,Broadcasting Support Services
+2062,Leigh Academies Trust,Leigh Academies Trust
+2063,Khodorkovsky Foundation,Khodorkovsky Foundation
+2064,Representative Body Of The Church In Wales,Representative Body Of The Church In Wales
+2065,Family Action,Family Action
+2066,The Association Of Chief Police Officers Of The United Kingdom,Association Of Chief Police Officers Of The United Kingdom
+2067,Homes For Islington,Homes For Islington
+2068,The Anthony Nolan Trust,Anthony Nolan Trust
+2069,Scottish Enterprise Grampian,Scottish Enterprise Grampian
+2070,Tonbridge School,Tonbridge School
+2071,The Benenden Hospital Trust,Benenden Hospital Trust
+2072,Allen & Overy Legal Services,Allen & Overy Legal Services
+2073,Crombie Wilkinson Solicitors,Crombie Wilkinson Solicitors
+2074,New Linx Housing Trust,New Linx Housing Trust
+2075,Uppingham School,Uppingham School
+2076,Worldwide Cancer Research,Worldwide Cancer Research
+2077,Mercy Corps Scotland,Mercy Corps Scotland
+2078,The Children's Trust,Children's Trust
+2079,St.Edward's School,St.Edward's School
+2080,NH Harrington Hall Hotel,NH Harrington Hall Hotel
+2081,Wakefield Grammar School Foundation,Wakefield Grammar School Foundation
+2082,Marylebone Warwick Balfour Management LT,Marylebone Warwick Balfour Management LT
+2083,Vela Homes,Vela Homes
+2084,Sense Scotland,Sense Scotland
+2085,The Halo Trust,Halo Trust
+2086,Professional Association For Childcare And Early Years,Professional Association For Childcare And Early Years
+2087,Leeds Hospital Fund,Leeds Hospital Fund
+2088,Brunelcare,Brunelcare
+2089,Action Cameras,Action Cameras
+2090,Ntl Cablecomms Derby,Ntl Cablecomms Derby
+2091,Severnside Housing,Severnside Housing
+2092,Saint John Of God Hospitaller Services,Saint John Of God Hospitaller Services
+2093,AUK,AUK
+2094,South Central Connexions Partnership,South Central Connexions Partnership
+2095,Aragon Housing Association,Aragon Housing Association
+2096,Childrensalon,Childrensalon
+2097,Psychology Associates,Psychology Associates
+2098,Azzuri Communications,Azzuri Communications
+2099,Technology Innovation Centre,Technology Innovation Centre
+2100,Loughborough Endowed Schools,Loughborough Endowed Schools
+2101,"Queen's University Of Belfast Foundation, The",Queen's University Of Belfast Foundation
+2102,The Mill Hill School Foundation,Mill Hill School Foundation
+2103,The Kennedy Trust For Rheumatology Research,Kennedy Trust For Rheumatology Research
+2104,Bridgepoint Advisers Holdings,Bridgepoint Advisers Holdings
+2105,Kibble Education & Care Centre,Kibble Education & Care Centre
+2106,United Jewish Israel Appeal,United Jewish Israel Appeal
+2107,"Science, Engineering And Manufacturing Technologies Alliance","Science, Engineering And Manufacturing Technologies Alliance"
+2108,Tasis The American School In England,Tasis The American School In England
+2109,Phoenix House,Phoenix House
+2110,West Kent Housing Association,West Kent Housing Association
+2111,Sevenoaks School,Sevenoaks School
+2112,Loretto Housing Association,Loretto Housing Association
+2113,Meres and Mosses Housing Association,Meres and Mosses Housing Association
+2114,Cheshire Peaks & Plains Housing Trust,Cheshire Peaks & Plains Housing Trust
+2115,TIGI,TIGI
+2116,Downe House School,Downe House School
+2117,Royal Ballet School,Royal Ballet School
+2118,Amnesty International Charity,Amnesty International Charity
+2119,Lifeline Project,Lifeline Project
+2120,Outward Bound Global,Outward Bound Global
+2121,Foundation For Credit Counselling,Foundation For Credit Counselling
+2122,Dulwich Preparatory Schools Trust,Dulwich Preparatory Schools Trust
+2123,Breast Cancer Care,Breast Cancer Care
+2124,Trinity College London,Trinity College London
+2125,British Marine Federation,British Marine Federation
+2126,Helpage International,Helpage International
+2127,Immigration Advisory Service,Immigration Advisory Service
+2128,Tnt Newco,Tnt Newco
+2129,Claris International,Claris International
+2130,St.Christophers Fellowship,St.Christophers Fellowship
+2131,Mytime Active,Mytime Active
+2132,St. Christophers Hospice,St. Christophers Hospice
+2133,Making Space,Making Space
+2134,World Society For The Protection Of Animals,World Society For The Protection Of Animals
+2135,MediMatch dental laboratory,MediMatch dental laboratory
+2136,The Lowry Centre Trust,Lowry Centre Trust
+2137,The Association Of Accounting Technicians,Association Of Accounting Technicians
+2138,Walsingham Support,Walsingham Support
+2139,Parkinson's Disease Society of the United Kingdom,Parkinson's Disease Society of the United Kingdom
+2140,Perrys of Sittingbourne,Perrys of Sittingbourne
+2141,Aquaterra Leisure,Aquaterra Leisure
+2142,Amnesty International United Kingdom Section,Amnesty International United Kingdom Section
+2143,Royal United Kingdom Beneficent Association,Royal United Kingdom Beneficent Association
+2144,Tbwa\\ggt,Tbwa\\ggt
+2145,J.N.F.Charitable Trust,J.N.F.Charitable Trust
+2146,St George's Weybridge,St George's Weybridge
+2147,Horder Healthcare,Horder Healthcare
+2148,International Bible Students Association,International Bible Students Association
+2149,National Children's Bureau,National Children's Bureau
+2150,Moorfield Real Estate Fund II,Moorfield Real Estate Fund II
+2151,Swettenham Stud,Swettenham Stud
+2152,The National Foundation For Youth Music,National Foundation For Youth Music
+2153,Metropolitan Support Trust,Metropolitan Support Trust
+2154,Greensleeves Homes Trust,Greensleeves Homes Trust
+2155,Cranleigh School,Cranleigh School
+2156,Scottish Enterprise Forth Valley,Scottish Enterprise Forth Valley
+2157,Carr Gomm,Carr-Gomm
+2158,National Star Foundation,National Star Foundation
+2159,Local Solutions,Local Solutions
+2160,Alternative Property Income Venture,Alternative Property Income Venture
+2161,Royal Blind Asylum And School Edinburgh,Royal Blind Asylum And School Edinburgh
+2162,Equinox Care,Equinox Care
+2163,Refugee And Migrant Justice,Refugee And Migrant Justice
+2164,Vospers,Vospers
+2165,Praxis Care,Praxis Care
+2166,The Leprosy Mission International,Leprosy Mission International
+2167,The Portsmouth Grammar School,Portsmouth Grammar School
+2168,The National Deaf Children's Society,National Deaf Children's Society
+2169,NGJ Services,NGJ Services
+2170,St.Helen's School Northwood,St.Helen's School Northwood
+2171,British Dental Association,British Dental Association
+2172,Hutchings Motor Group,Hutchings Motor Group
+2173,Friends Of The Elderly,Friends Of The Elderly
+2174,Eden Court Highlands,Eden Court Highlands
+2175,Migrant Helpline,Migrant Helpline
+2176,Royal Conservatoire Of Scotland,Royal Conservatoire Of Scotland
+2177,Battersea Dogs' & Cats' Home,Battersea Dogs' & Cats' Home
+2178,The You Trust,You Trust
+2179,Overseas Development Institute,Overseas Development Institute
+2180,Scottish Council For Voluntary Organisations,Scottish Council For Voluntary Organisations
+2181,Shaftesbury Homes & Arethusa,Shaftesbury Homes & Arethusa
+2182,The Bath & Wells Diocesan Board Of Finance,Bath & Wells Diocesan Board Of Finance
+2183,Albion Water Heaters,Albion Water Heaters
+2184,Ben-Motor And Allied Trades Benevolent Fund,Ben-Motor And Allied Trades Benevolent Fund
+2185,Outlook Care,Outlook Care
+2186,The Chartered Society of Physiotherapy,Chartered Society of Physiotherapy
+2187,Queen Elizabeth's Foundation For Disabled People,Queen Elizabeth's Foundation For Disabled People
+2188,Construction Industry Solution,Construction Industry Solution
+2189,The Percy Hedley Foundation,Percy Hedley Foundation
+2190,United Kingdom Accreditation Service,United Kingdom Accreditation Service
+2191,Moroak,Moroak
+2192,English National Ballet,English National Ballet
+2193,Two Rivers Housing,Two Rivers Housing
+2194,Manchester Diocesan Board Of Finance,Manchester Diocesan Board Of Finance
+2195,Scottish Society For The Prevention Of Cruelty To Animals,Scottish Society For The Prevention Of Cruelty To Animals
+2196,The Foundation For Social Entrepreneurs,Foundation For Social Entrepreneurs
+2197,Sheffield Futures,Sheffield Futures
+2198,Community Lives Consortium,Community Lives Consortium
+2199,The Victoria Foundation,Victoria Foundation
+2200,Hie Argyll And The Islands,Hie Argyll And The Islands
+2201,The Tennis Foundation,Tennis Foundation
+2202,The Duke Of Edinburgh's Award,Duke Of Edinburgh's Award
+2203,Sova,Sova
+2204,The Brooke Hospital For Animals,Brooke Hospital For Animals
+2205,Impact Development Training International,Impact Development Training International
+2206,Employers' Organisation For Local Government,Employers' Organisation For Local Government
+2207,Integrated Services Programme,Integrated Services Programme
+2208,"Variety, The Children's Charity","Variety, The Children's Charity"
+2209,Personal Touch Mortgage Administration Services,Personal Touch Mortgage Administration Services
+2210,"The King's School, Ely","King's School, Ely"
+2211,Booktrust,Booktrust
+2212,"The Abbey School, Reading","Abbey School, Reading"
+2213,British Council for Offices,British Council for Offices
+2214,Titan Telecom,Titan Telecom
+2215,Watford Community Housing Trust,Watford Community Housing Trust
+2216,Cape Verde Capital,Cape Verde Capital
+2217,Dairy Crest Direct,Dairy Crest Direct
+2218,Hillhead Housing Association,Hillhead Housing Association
+2219,My Max,My Max
+2220,The Hospital Of St John And St Elizabeth,Hospital Of St John And St Elizabeth
+2221,Musicians Benevolent Fund,Musicians Benevolent Fund
+2222,MEPC UK Holdings,MEPC UK Holdings
+2223,Hess NWE Holdings,Hess NWE Holdings
+2224,Rexnord Automation,Rexnord Automation
+2225,Lampeter Investments,Lampeter Investments
+2226,Stevenson Investments,Stevenson Investments
+2227,The Beacon Church Camberley,Beacon Church Camberley
+2228,Aviemore Investments,Aviemore Investments
+2229,GEH Holdings,GEH Holdings
+2230,Teesside Gas & Liquids Processing,Teesside Gas & Liquids Processing
+2231,IntercontinentalExchange Holdings,IntercontinentalExchange Holdings
+2232,Notting Hill Housing Trust,Notting Hill Housing Trust
+2233,London And Paris Joint Stock Bank,London And Paris Joint Stock Bank
+2234,"Baker & Mckenzie LLP, London","Baker & Mckenzie LLP, London"
+2235,Royal Shakespeare Memorial Theatre,Royal Shakespeare Memorial Theatre
+2236,SCIH Branston 3,SCIH Branston 3
+2237,Quilter Uk Investment Funds Icvc,Quilter Uk Investment Funds Icvc
+2238,Scottish Enterprise Edinburgh & Lothian,Scottish Enterprise Edinburgh & Lothian
+2239,Nacro,Nacro
+2240,Natwest (280b) Investments,Natwest (280b) Investments
+2241,Dentons Uk And Middle East Legal Services,Dentons Uk And Middle East Legal Services
+2242,World Chamber European Economic Interest Grouping,World Chamber European Economic Interest Grouping
+2243,Devon And Cornwall Housing Trust,Devon And Cornwall Housing Trust
+2244,Mosaic Housing Association,Mosaic Housing Association
+2245,Luminar North,Luminar North
+2246,Bc,Bc
+2247,NTL Cablecomms Sussex,NTL Cablecomms Sussex
+2248,Luminar Midlands And West,Luminar Midlands And West
+2249,Ingleby Services,Ingleby Services
+2250,Grant Thornton Business Services,Grant Thornton Business Services
+2251,University of the Highlands and Islands,University of the Highlands and Islands
+2252,Norwood Ravenswood,Norwood Ravenswood
+2253,Sherwin-Williams Protective & Marine Coatings,Sherwin-Williams Protective & Marine Coatings
+2254,NTL Cablecomms Surrey,NTL Cablecomms Surrey
+2255,Golden Acres Pet Food Partners,Golden Acres Pet Food Partners
+2256,NTL Kirklees,NTL Kirklees
+2257,Colt Telecom Finance Denmark,Colt Telecom Finance Denmark
+2258,The Eden Trust,Eden Trust
+2259,Wigan Leisure And Culture Trust,Wigan Leisure And Culture Trust
+2260,Linklaters (Europe) Holdings,Linklaters (Europe) Holdings
+2261,Sterling Mobility,Sterling Mobility
+2262,Ordinto Investments,Ordinto Investments
+2263,"St Mary's University, Twickenham","St Mary's University, Twickenham"
+2264,Flextech C,Flextech C
+2265,NTL Cablecomms Bromley,NTL Cablecomms Bromley
+2266,Grosvenor West End Properties,Grosvenor West End Properties
+2267,Old Ford Housing Association,Old Ford Housing Association
+2268,NTL Cablecomms Cheshire,NTL Cablecomms Cheshire
+2269,The Emmanuel Schools Foundation,Emmanuel Schools Foundation
+2270,NTL Cablecomms Staffordshire,NTL Cablecomms Staffordshire
+2271,NTL Cablecomms Stockport,NTL Cablecomms Stockport
+2272,Erskine Hospital,Erskine Hospital
+2273,RSA Examinations Board,RSA Examinations Board
+2274,NTL Cablecomms Bolton,NTL Cablecomms Bolton
+2275,Scottish Enterprise Renfrewshire,Scottish Enterprise Renfrewshire
+2276,The Havebury Housing Partnership,Havebury Housing Partnership
+2277,Bupa Europe Finance No.2,Bupa Europe Finance No.2
+2278,St Bede's School Trust Sussex,St Bede's School Trust Sussex
+2279,NTL Cablecomms Oldham & Tameside,NTL Cablecomms Oldham & Tameside
+2280,Sherborne School,Sherborne School
+2281,Cartrefi Cymru Cyf,Cartrefi Cymru Cyf
+2282,Leeds Trinity University,Leeds Trinity University
+2283,Dover Harbour Board,Dover Harbour Board
+2284,Thera Trust,Thera Trust
+2285,Scottish Enterprise Dunbartonshire,Scottish Enterprise Dunbartonshire
+2286,Framework Housing Association,Framework Housing Association
+2287,Mirus-Wales,Mirus-Wales
+2288,Smg Europe,BMG Europe
+2289,East Of England Agricultural Society,East Of England Agricultural Society
+2290,Charles River Laboratories Group,Charles River Laboratories Group
+2291,Salvation Army Housing Association,Salvation Army Housing Association
+2292,Endeavour Academies Trust,Endeavour Academies Trust
+2293,Harefield Academy Trust,Harefield Academy Trust
+2294,The Moredun Foundation,Moredun Foundation
+2295,Heart Of England Training And Enterprise Council,Heart Of England Training And Enterprise Council
+2296,Livability,Livability
+2297,Scottish Autism,Scottish Autism
+2298,Careers Development Group,Careers Development Group
+2299,Emerge Poverty Free,Emerge Poverty Free
+2300,The Rowett Research Institute,Rowett Research Institute
+2301,The Oxfordshire Care Partnership,Oxfordshire Care Partnership
+2302,FitzRoy Leo Trust,FitzRoy Leo Trust
+2303,Abbey National Property Investments,Abbey National Property Investments
+2304,NatWest Markets Investments,NatWest Markets Investments
+2305,Strobe 2,Strobe 3
+2306,Mission Aviation Fellowship International,Mission Aviation Fellowship International
+2307,Boc Helex,Boc Helex
+2308,The Roundhouse Trust,Roundhouse Trust
+2309,Oxford Strategic Marketing,Oxford Strategic Marketing
+2310,"Hertford British Hospital Corporation, Paris","Hertford British Hospital Corporation, Paris"
+2311,The James Hutton Institute,James Hutton Institute
+2312,Aberdeen Association Of Social Service,Aberdeen Association Of Social Service
+2313,The City Literary Institute,City Literary Institute
+2314,Southern Enterprise Alliance,Southern Enterprise Alliance
+2315,England And Wales Cricket Trust,England And Wales Cricket Trust
+2316,The Conservatoire For Dance And Drama,Conservatoire For Dance And Drama
+2317,Spurgeons,Spurgeons
+2318,St. Laurence Education Trust,St. Laurence Education Trust
+2319,Chester Diocesan Board Of Finance,Chester Diocesan Board Of Finance
+2320,The Wildfowl & Wetlands Trust,Wildfowl & Wetlands Trust
+2321,Ahmadiyya Muslim Jamaat International,Ahmadiyya Muslim Jamaat International
+2322,Coventry & Warwickshire Chamber Of Commerce,Coventry & Warwickshire Chamber Of Commerce
+2323,Dean Close School,Dean Close School
+2324,The Dartington Hall Trust,Dartington Hall Trust
+2325,LB Lomond Investments,LB Lomond Investments
+2326,Taunton School Educational Charity,Taunton School Educational Charity
+2327,NTL Cablecomms Bury & Rochdale,NTL Cablecomms Bury & Rochdale
+2328,The Tudor Trust,Tudor Trust
+2329,First Nationwide,First Nationwide
+2330,Abingdon School,Abingdon School
+2331,"Forest School,Essex.","Forest School,Essex."
+2332,National Library Of Wales,National Library Of Wales
+2333,The Act Foundation,Act Foundation
+2334,The Royal Star & Garter Homes,Royal Star & Garter Homes
+2335,North Music Trust,North Music Trust
+2336,On Sight,On Sight
+2337,Baring International Investment Management Holdings,Baring International Investment Management Holdings
+2338,Hildenborough Volvo,Hildenborough Volvo
+2339,Djanogly Learning Trust,Djanogly Learning Trust
+2340,The Garrard Academy,Garrard Academy
+2341,Birmingham Royal Ballet,Birmingham Royal Ballet
+2342,The Guide Association,Guide Association
+2343,Clearway Group,Clearway Group
+2344,Amnesty International U K Section Charitable Trust,Amnesty International U K Section Charitable Trust
+2345,Grosvenor Properties,Grosvenor Properties
+2346,Reigate Grammar School,Reigate Grammar School
+2347,Fold Housing Association,Fold Housing Association
+2348,Harris Academy Bermondsey,Harris Academy Bermondsey
+2349,Bardahl Europe,Bardahl Europe
+2350,Monkton Combe School,Monkton Combe School
+2351,Motor Neurone Disease Association,Motor Neurone Disease Association
+2352,Repton School,Repton School
+2353,ERIKS Gasket Technology,ERIKS Gasket Technology
+2354,Rugby Football Foundation,Rugby Football Foundation
+2355,Bristol Grammar School,Bristol Grammar School
+2356,North East Chamber Of Commerce,North East Chamber Of Commerce
+2357,B N C College Oxford,B N C College Oxford
+2358,The Oratory Schools Association,Oratory Schools Association
+2359,Morgan Stanley Financial Trader,Morgan Stanley Financial Trader
+2360,Russell School Trust,Russell School Trust
+2361,St Mary's School Ascot,St Mary's School Ascot
+2362,Edinburgh International Festival Society,Edinburgh International Festival Society
+2363,The Pony Club,Pony Club
+2364,"St. Clare's, Oxford.","St. Clare's, Oxford."
+2365,SJ Berwin Services,SJ Berwin Services
+2366,Ancasta Group,Ancasta Group
+2367,Sussex Chamber Of Commerce & Enterprise,Sussex Chamber Of Commerce & Enterprise
+2368,Ctc Kingshurst Academy,Ctc Kingshurst Academy
+2369,Autism.West Midlands,Autism.West Midlands
+2370,Tyco Integrated Fire & Security,Tyco Integrated Fire & Security
+2371,Samaritans,Samaritans
+2372,South London Business,South London Business
+2373,Dlj Uk Holding,Dlj Uk Holding
+2374,"The Foundation And Friends Of The Royal Botanic Gardens, Kew","Foundation And Friends Of The Royal Botanic Gardens, Kew"
+2375,The Royal Society For Blind Children,Royal Society For Blind Children
+2376,Mildmay Mission Hospital,Mildmay Mission Hospital
+2377,Cheadle Hulme School,Cheadle Hulme School
+2378,Adviza,Adviza
+2379,In Kind Direct,In Kind Direct
+2380,"Global Workplace, The",Global Workplace
+2381,The Global Workplace Ltd.,Global Workplace
+2382,"The Global Workplace, Ltd.",Global Workplace
+2383,"Global Workplace Ltd., The",Global Workplace
+2384,"Game Holdings, Ltd., The",Game Holdings
+2385,"Pye Motors,Limited",Pye Motors
+2386,H.B.Clark & Co.(Successors)Limited,H.B.Clark & Co.(Successors)
+2387,Frosts(Cars)Limited,Frosts(Cars)
+2388,F.P.Smith(Holdings)Limited,F.P.Smith(Holdings)
+2389,Clifford & Co.(Sidcup)Limited,Clifford & Co.(Sidcup)
+2390,"Hartwells Garages,Limited",Hartwells Garages
+2391,"Global Workplace Ltd., The",Global Workplace
+2392,"Game Holdings, Ltd., The",Game Holdings
+2393,"Pye Motors,Limited",Pye Motors
+2394,H.B.Clark & Co.(Successors)Limited,H.B.Clark & Co.(Successors)
+2395,Frosts(Cars)Limited,Frosts(Cars)
+2396,F.P.Smith(Holdings)Limited,F.P.Smith(Holdings)
+2397,Clifford & Co.(Sidcup)Limited,Clifford & Co.(Sidcup)
+2398,"Hartwells Garages,Limited",Hartwells Garages
+2399,Flavours & Fragrances I.F.F.(Great Britain)Limited,Flavours & Fragrances I.F.F.(Great Britain)
+2400,W.Brindley(Garages)Limited,W.Brindley(Garages)
+2401,Tenneco-Walker(U.K.)Limited,Tenneco-Walker(U.K.)
+2402,"Taylor,Maxwell & Co.Limited","Taylor,Maxwell"
+2403,W.J.King(Garages)Limited,W.J.King(Garages)
+2404,"W.Boyes & Co.,Limited",W.Boyes
+2405,I.S.A.(Holdings)Limited,I.S.A.(Holdings)
+2406,Cornerstone Group Limited - The,Cornerstone Group
+2407,"Gadget Shop Ltd, The",Gadget Shop
+2408,Windsors(Sporting Investments)Limited,Windsors(Sporting Investments)
+2409,"Integrated Transport Co Ltd, The",Integrated Transport Co
+2410,"Wiggins Teape Group Ltd, The",Wiggins Teape Group
+2411,"Menzies Group Ltd, The",Menzies Group
+2412,N.M.B.(U.K.)Limited,N.M.B.(U.K.)
+2413,"Graham Tatford & Co.,Limited",Graham Tatford
+2414,Peter Blake(Chatsworth)Limited,Peter Blake(Chatsworth)
+2415,Anglo-Dutch Meats(U.K.)Limited,Anglo-Dutch Meats(U.K.)
+2416,Baumann Hinde & Co.Limited,Baumann Hinde
+2417,"Drake & Fletcher,Limited",Drake & Fletcher
+2418,Frazer(Butchers)Limited,Frazer(Butchers)
+2419,Geo.Akins(Holdings)Limited,Geo.Akins(Holdings)
+2420,Bell Bros.(Ashington)Limited,Bell Bros.(Ashington)
+2421,"Oval Limited, Liverpool Branch","Oval Limited, Liverpool Branch"
+2422,"Sir James Hill & Sons,Limited",Sir James Hill & Sons
+2423,D.P.T.(Wear)Limited,D.P.T.(Wear)
+2424,F.A.Gill.Limited,F.A.Gill
+2425,A.W.Lumb & Co.Limited,A.W.Lumb
+2426,"HTC Europe Co.,Ltd.",HTC Europe
+2427,Sharefunds Ltd Global Fund,Sharefunds Ltd Global Fund
+2428,"DSV Solutions Ltd.,UK",DSV Solutions
+2429,Northwood(Fareham)Limited,Northwood(Fareham)
+2430,Karimjee Jivanjee & Co.(U.K.)Limited,Karimjee Jivanjee & Co.(U.K.)
+2431,"Alfred Price & Sons,Limited",Alfred Price & Sons
+2432,Bare Motor Co.Limited,Bare Motor
+2433,Great Fosters(1931)Limited.,Great Fosters(1931)
+2434,C.John Norris(Cars & Caravans)Limited,C.John Norris(Cars & Caravans)
+2435,"William Gibbons & Sons,Limited",William Gibbons & Sons
+2436,J.E.Stacey & Co.Limited,J.E.Stacey
+2437,"James Dawson & Son,Limited",James Dawson & Son
+2438,Dornan's Service Station (Lisburn)Limited,Dornan's Service Station (Lisburn)
+2439,M.K.G.(Food Products)Limited,M.K.G.(Food Products)
+2440,"Edward Wood & Sons,Limited",Edward Wood & Sons
+2441,"Geo.L.Scott & Co.,Limited",Geo.L.Scott
+2442,R.Smith(Windermere)Limited,R.Smith(Windermere)
+2443,James Hargreaves(Plumbers'merchants)Limited,James Hargreaves(Plumbers'merchants)
+2444,Wilcox & Co.(Limousines)Limited,Wilcox & Co.(Limousines)
+2445,"H.Young & Co.,Ltd",H.Young
+2446,Arighi Bianchi & Co.Ltd,Arighi Bianchi
+2447,J.Harper & Sons(Leominster)Limited,J.Harper & Sons(Leominster)
+2448,"Battle,Hayward And Bower,Limited","Battle,Hayward And Bower"
+2449,"TOMY UK Co.,Ltd.",TOMY
+2450,Stratton Motor Company(Norfolk)Limited,Stratton Motor Company(Norfolk)
+2451,"Gardiner,Sons & Co.,Limited","Gardiner,Sons"
+2452,L.H.D.Limited,L.H.D
+2453,P.F.D.(Carlisle)Limited,P.F.D.(Carlisle)
+2454,Wandahome(Knottingley)Limited,Wandahome(Knottingley)
+2455,T.Richard Jones (Betws)Limited,T.Richard Jones (Betws)
+2456,"Sir Jacob Behrens & Sons,Ltd",Sir Jacob Behrens & Sons
+2457,"Stowe School,Ltd",Stowe School
+2458,Trad Scaffolding Co.Limited,Trad Scaffolding
+2459,C.& S.Steels(Wolverhampton)Limited,C.& S.Steels(Wolverhampton)
+2460,"Pertwee & Back,Limited",Pertwee & Back
+2461,Wemyss Development Company Ltd. The,Wemyss Development Company
+2462,"W.& J.Parker,Limited",W.& J.Parker
+2463,W.& J.Parker(Wholesale)Limited,W.& J.Parker(Wholesale)
+2464,"R.S.Clare & Co.,Limited",R.S.Clare
+2465,"H.T.White & Company,Ltd",H.T.White
+2466,W.K.Thomas(Disposables)Limited,W.K.Thomas(Disposables)
+2467,"Girls' Education Company,Limited",Girls' Education
+2468,Jeol(U.K.)Limited,Jeol(U.K.)
+2469,W.H.Palmer & Co.(Industries)Limited,W.H.Palmer & Co.(Industries)
+2470,"Gordonstoun Schools,Limited",Gordonstoun Schools
+2471,"H.E.Williams & Co.,Limited",H.E.Williams
+2472,Garriock Bros.Limited,Garriock Bros
+2473,Brook & Churches Bros.Limited,Brook & Churches Bros
+2474,"Kent,Blaxill & Co,Limited","Kent,Blaxill"
+2475,"H.Tomlins,Limited",H.Tomlins
+2476,Broadway Travel Service(Wimbledon)Limited,Broadway Travel Service(Wimbledon)
+2477,P.E.Jones(Properties)Limited,P.E.Jones(Properties)
+2478,Arthur Price & Co.Ltd,Arthur Price
+2479,Trent Valley Window & Door Co.Ltd,Trent Valley Window & Door
+2480,"Pritt & Co.,Limited",Pritt
+2481,A.Bilbrough & Co.Limited,A.Bilbrough
+2482,Slater Harrison & Co.Limited,Slater Harrison
+2483,"Henry Johnson Sons & Co.,Limited",Henry Johnson Sons
+2484,Koyo(U.K.)Limited,Koyo(U.K.)
+2485,Kuhn Farm Machinery(U.K.)Limited,Kuhn Farm Machinery(U.K.)
+2486,A.H.Adams Motors(Tipton)Limited,A.H.Adams Motors(Tipton)
+2487,"B.Danby & Co,Limited",B.Danby
+2488,"Canford School,Limited",Canford School
+2489,"Fylde Ice & Cold Storage Company,Limited",Fylde Ice & Cold Storage
+2490,R.S.Crooke & Co.(Paper Sales)Limited,R.S.Crooke & Co.(Paper Sales)
+2491,"P.C.Richardson & Co.(Middlesbrough),Limited",P.C.Richardson & Co.(Middlesbrough)
+2492,Mcconomy & Co.Ltd,Mcconomy
+2493,"W.Davis & Sons,(Sevenoaks)Limited","W.Davis & Sons,(Sevenoaks)"
+2494,"University Of Huddersfield Enterprises Ltd, The",University Of Huddersfield Enterprises
+2495,"Marchant Manufacturing Co,Limited",Marchant Manufacturing
+2496,"Harding & Sons,Limited",Harding & Sons
+2497,D.Green & Co.(Stoke Newington)Limited,D.Green & Co.(Stoke Newington)
+2498,Marsylka Manufacturing Co.Limited,Marsylka Manufacturing
+2499,"F.W.Harmer & Co.,Limited",F.W.Harmer
+2500,"T.H.Brickell & Son,Limited",T.H.Brickell & Son
+2501,"Essex Flour & Grain Company,Limited",Essex Flour & Grain
+2502,W.D.M.Limited,W.D.M
+2503,Sovereign Capital Limited Partnership III,Sovereign Capital Limited Partnership III
+2504,Nash Sells Limited Partnership II,Nash Sells Limited Partnership II
+2505,Advent First Limited Partnership,Advent First
+2506,Parallel Ventures Limited Partnership,Parallel Ventures
+2507,Equistone Private Equity PVLP Limited Partnership,Equistone Private Equity PVLP
+2508,Mission Hydro Limited Partnership,Mission Hydro
+2509,Merck UK Limited Partnership,Merck
+2510,Sovereign Capital Limited Partnership,Sovereign Capital
+2511,WestQuay Limited Partnership,WestQuay
+2512,Carisbrooke Suon Limited Partnership,Carisbrooke Suon
+2513,Premier Greenford Limited Partnership,Premier Greenford
+2514,Cardinal Health 421 Limited Partnership,Cardinal Health 421
+2515,CaTO Finance V Limited Partnership,CaTO Finance V
+2516,American Express Euro Funding Limited Partnership,American Express Euro Funding
+2517,The Wood Wharf Limited Partnership,Wood Wharf
+2518,The Mall Limited Partnership,Mall
+2519,Halladale Opportunity Fund Limited Partnership,Halladale Opportunity Fund
+2520,NC2 Limited Partnership,NC2
+2521,Thermo Dutch Holdings Limited Partnership,Thermo Dutch Holdings
+2522,Thermo Fisher (Finland Holdings) Limited Partnership,Thermo Fisher (Finland Holdings)
+2523,St. David闁炽儲鐛 Limited Partnership,St. David闁炽儲鐛
+2524,Academy Central Limited Liability Partnership,Academy Central
+2525,Tpf Services Limited Liability Partnership,Tpf Services
+2526,Dr J H Burgoyne & Partners Limited Liability Partnership,Dr J H Burgoyne & Partners
+2527,"Variety, The Children's Charity","Variety, The Children's Charity"
+2528,"The Leprosy Mission England, Wales, The Channel Islands And The Isle Of Man","Leprosy Mission England, Wales, The Channel Islands And The Isle Of Man"
+2529,"Sense, The National Deafblind and Rubella Association","Sense, The National Deafblind and Rubella Association"
